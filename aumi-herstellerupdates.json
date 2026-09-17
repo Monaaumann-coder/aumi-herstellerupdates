@@ -1,12 +1,21 @@
 {
   "format": "AUMI_MANUFACTURER_FEED_V1",
-  "revision": "2026-09-17.0",
-  "published_at": "2026-09-17T16:13:00+02:00",
-  "title": "Aumi Herstellerdaten – Basisstand",
-  "note": "Zentrale Update-Quelle eingerichtet. Noch keine neuen Herstellerdaten in diesem Basisstand.",
+  "revision": "2026-09-17.1",
+  "published_at": "2026-09-17T16:24:00+02:00",
+  "title": "Aumi Herstellerdaten – Verbindungstest",
+  "note": "Zentrale Update-Quelle ist eingerichtet. Dieser Eintrag dient nur dazu, die Verbindung zwischen Aumi und GitHub einmalig zu bestätigen; es werden keine Aumann-Preise, Aktionen oder Produktbilder verändert.",
   "payload": {
     "format": "AUMI_PRODUCT_UPDATE_V1",
-    "created_at": "2026-09-17T16:13:00+02:00",
-    "products": []
+    "created_at": "2026-09-17T16:24:00+02:00",
+    "products": [
+      {
+        "match": {
+          "manufacturer": "Audio Service",
+          "name": "B M Li 8.16"
+        },
+        "technical_data": {},
+        "product_updates": {}
+      }
+    ]
   }
 }
