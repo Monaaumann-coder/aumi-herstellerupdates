@@ -1,20 +1,589 @@
 {
   "format": "AUMI_MANUFACTURER_FEED_V1",
-  "revision": "2026-09-17.1",
-  "published_at": "2026-09-17T16:24:00+02:00",
-  "title": "Aumi Herstellerdaten – Verbindungstest",
-  "note": "Zentrale Update-Quelle ist eingerichtet. Dieser Eintrag dient nur dazu, die Verbindung zwischen Aumi und GitHub einmalig zu bestätigen; es werden keine Aumann-Preise, Aktionen oder Produktbilder verändert.",
+  "revision": "2026-09-17.2",
+  "published_at": "2026-09-17T17:15:00+02:00",
+  "title": "Aumi Herstellerdaten – Prüfung 17.09.2026",
+  "note": "Oticon, Widex, Audio Service, Starkey, ReSound und Beltone wurden auf neue Hörgeräte und neue Herstellerunterlagen geprüft. Keine zusätzlichen neuen Geräte gegenüber dem aktuellen Aumi-Katalog gefunden. Aktualisierte/verifizierte Hersteller- und Datenblattquellen für Oticon Reveal, Starkey Omega AI, ReSound Sensia und Beltone Illuminate. Widex Allure und Audio Service G8 sind bereits auf aktuellem Stand. Aumann-VKs, Aktionen und eigene Produktbilder bleiben unverändert.",
   "payload": {
     "format": "AUMI_PRODUCT_UPDATE_V1",
-    "created_at": "2026-09-17T16:24:00+02:00",
+    "created_at": "2026-09-17T17:15:00+02:00",
+    "note": "Herstellerprüfung 17.09.2026 – technische Quellen/Prüfdaten aktualisiert.",
     "products": [
       {
         "match": {
-          "manufacturer": "Audio Service",
-          "name": "B M Li 8.16"
+          "id": "manual_oticon_reveal_1",
+          "manufacturer": "Oticon",
+          "name": "Reveal 1"
         },
-        "technical_data": {},
-        "product_updates": {}
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – offizielle Produkt-/Downloadseite am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.oticon.de/products/951178",
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
+          "datasheet_url": "https://www.oticon.de/products/951178",
+          "source_title": "Oticon Reveal miniRITE R – offizielle Produktseite mit technischer Produktinformation",
+          "source_url": "https://www.oticon.de/products/951178"
+        }
+      },
+      {
+        "match": {
+          "id": "manual_oticon_reveal_2",
+          "manufacturer": "Oticon",
+          "name": "Reveal 2"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – offizielle Produkt-/Downloadseite am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.oticon.de/products/951178",
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
+          "datasheet_url": "https://www.oticon.de/products/951178",
+          "source_title": "Oticon Reveal miniRITE R – offizielle Produktseite mit technischer Produktinformation",
+          "source_url": "https://www.oticon.de/products/951178"
+        }
+      },
+      {
+        "match": {
+          "id": "manual_oticon_reveal_3",
+          "manufacturer": "Oticon",
+          "name": "Reveal 3"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – offizielle Produkt-/Downloadseite am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.oticon.de/products/951178",
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
+          "datasheet_url": "https://www.oticon.de/products/951178",
+          "source_title": "Oticon Reveal miniRITE R – offizielle Produktseite mit technischer Produktinformation",
+          "source_url": "https://www.oticon.de/products/951178"
+        }
+      },
+      {
+        "match": {
+          "id": "manual_oticon_reveal_4",
+          "manufacturer": "Oticon",
+          "name": "Reveal 4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – offizielle Produkt-/Downloadseite am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.oticon.de/products/951178",
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
+          "datasheet_url": "https://www.oticon.de/products/951178",
+          "source_title": "Oticon Reveal miniRITE R – offizielle Produktseite mit technischer Produktinformation",
+          "source_url": "https://www.oticon.de/products/951178"
+        }
+      },
+      {
+        "match": {
+          "id": "price_059",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 9"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE / en-US Pro",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+        }
+      },
+      {
+        "match": {
+          "id": "price_060",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 9 Akku"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE / en-US Pro",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+        }
+      },
+      {
+        "match": {
+          "id": "price_064",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 7"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE / en-US Pro",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+        }
+      },
+      {
+        "match": {
+          "id": "price_065",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 7 Akku"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE / en-US Pro",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+        }
+      },
+      {
+        "match": {
+          "id": "price_069",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 5"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE / en-US Pro",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+        }
+      },
+      {
+        "match": {
+          "id": "price_070",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 5 Akku"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE / en-US Pro",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+        }
+      },
+      {
+        "match": {
+          "id": "price_075",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE / en-US Pro",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+        }
+      },
+      {
+        "match": {
+          "id": "price_076",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 4 Akku"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "de-DE / en-US Pro",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+        }
+      },
+      {
+        "match": {
+          "id": "price_038",
+          "manufacturer": "Beltone",
+          "name": "Illuminate 17"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
+          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+        }
+      },
+      {
+        "match": {
+          "id": "price_039",
+          "manufacturer": "Beltone",
+          "name": "Illuminate 17"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
+          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+        }
+      },
+      {
+        "match": {
+          "id": "price_042",
+          "manufacturer": "Beltone",
+          "name": "Illuminate 9"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
+          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+        }
+      },
+      {
+        "match": {
+          "id": "price_043",
+          "manufacturer": "Beltone",
+          "name": "Illuminate 9"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
+          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+        }
+      },
+      {
+        "match": {
+          "id": "price_046",
+          "manufacturer": "Beltone",
+          "name": "Illuminate 6"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
+          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+        }
+      },
+      {
+        "match": {
+          "id": "price_047",
+          "manufacturer": "Beltone",
+          "name": "Illuminate 6"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
+          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+        }
+      },
+      {
+        "match": {
+          "id": "price_050",
+          "manufacturer": "Beltone",
+          "name": "Illuminate 4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
+          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+        }
+      },
+      {
+        "match": {
+          "id": "price_051",
+          "manufacturer": "Beltone",
+          "name": "Illuminate 4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
+          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+        }
+      },
+      {
+        "match": {
+          "id": "price_123",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 24 CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
+          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_124",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 24 ITC R / ITE R"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI ITE R – Technical Data (24/20/16)",
+          "datasheet_url": "https://eifu.starkey.com/eifu/datasheets-prod-2-12-25/Omega%20AI%20Product%20Datasheets/SPEC3103/SPEC3103-00-EN-ST%20-%20Omega%20AI%20Wireless%20Tech%20Tiers%20ITE%20R%20-%20English.pdf",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_125",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 24 RIC 312"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
+          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_126",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 24 mRIC R*"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
+          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_129",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 20 CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
+          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_130",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 20 ITC R / ITE R"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI ITE R – Technical Data (24/20/16)",
+          "datasheet_url": "https://eifu.starkey.com/eifu/datasheets-prod-2-12-25/Omega%20AI%20Product%20Datasheets/SPEC3103/SPEC3103-00-EN-ST%20-%20Omega%20AI%20Wireless%20Tech%20Tiers%20ITE%20R%20-%20English.pdf",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_131",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 20 RIC 312"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
+          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_132",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 20 mRIC R*"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
+          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_135",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 16 CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
+          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_136",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 16 ITC R / ITE R"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI ITE R – Technical Data (24/20/16)",
+          "datasheet_url": "https://eifu.starkey.com/eifu/datasheets-prod-2-12-25/Omega%20AI%20Product%20Datasheets/SPEC3103/SPEC3103-00-EN-ST%20-%20Omega%20AI%20Wireless%20Tech%20Tiers%20ITE%20R%20-%20English.pdf",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_137",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 16 RIC 312"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
+          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
+      },
+      {
+        "match": {
+          "id": "price_138",
+          "manufacturer": "Starkey",
+          "name": "Omega AI 16 mRIC R*"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
+          "verified_date": "17.09.2026",
+          "link_verified_date": "17.09.2026",
+          "product_locale": "en-US",
+          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
+          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
+          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
+          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
+          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+        }
       }
     ]
   }
