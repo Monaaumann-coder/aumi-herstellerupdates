@@ -1,13 +1,13 @@
 {
   "format": "AUMI_MANUFACTURER_FEED_V1",
-  "revision": "2026-09-17.2",
-  "published_at": "2026-09-17T17:15:00+02:00",
-  "title": "Aumi Herstellerdaten – Prüfung 17.09.2026",
-  "note": "Oticon, Widex, Audio Service, Starkey, ReSound und Beltone wurden auf neue Hörgeräte und neue Herstellerunterlagen geprüft. Keine zusätzlichen neuen Geräte gegenüber dem aktuellen Aumi-Katalog gefunden. Aktualisierte/verifizierte Hersteller- und Datenblattquellen für Oticon Reveal, Starkey Omega AI, ReSound Sensia und Beltone Illuminate. Widex Allure und Audio Service G8 sind bereits auf aktuellem Stand. Aumann-VKs, Aktionen und eigene Produktbilder bleiben unverändert.",
+  "revision": "2026-09-23.1",
+  "published_at": "2026-09-23T13:55:00+02:00",
+  "title": "Aumi Herstellerdaten – Prüfung 23.09.2026",
+  "note": "Oticon, Widex, Beltone, GN ReSound und Audio Service wurden gegen aktuelle offizielle Produkt-, Support- und Datenblattquellen geprüft. Neue 2026-Features wurden ergänzt. Vergleichsprofile werden pro Produkt mitgeliefert, damit aktuelle Features im Aumi-Gerätevergleich erscheinen. Preise, Aktionen, Bilder, Ex-Hörer, Zubehör und Aumann-Stammdaten bleiben unverändert.",
   "payload": {
     "format": "AUMI_PRODUCT_UPDATE_V1",
-    "created_at": "2026-09-17T17:15:00+02:00",
-    "note": "Herstellerprüfung 17.09.2026 – technische Quellen/Prüfdaten aktualisiert.",
+    "created_at": "2026-09-23T13:55:00+02:00",
+    "note": "Herstellerprüfung 23.09.2026 – technische Daten, Quellen, Features und Vergleichsprofile aktualisiert.",
     "products": [
       {
         "match": {
@@ -16,15 +16,43 @@
           "name": "Reveal 1"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – offizielle Produkt-/Downloadseite am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
           "product_locale": "de-DE",
           "product_url": "https://www.oticon.de/products/951178",
-          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
-          "datasheet_url": "https://www.oticon.de/products/951178",
-          "source_title": "Oticon Reveal miniRITE R – offizielle Produktseite mit technischer Produktinformation",
-          "source_url": "https://www.oticon.de/products/951178"
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R",
+          "datasheet_url": "https://www.oticon.de/professionals/resource-center",
+          "source_title": "Technische Produktinformation Oticon Reveal miniRITE R",
+          "source_url": "https://www.oticon.de/products/951178",
+          "features": [
+            "Reveal AI Plattform mit Dual AI: Speech AI + Context AI",
+            "Reveal Optimizer",
+            "AI Clarifier",
+            "4D-Sensortechnologie zur Erkennung von Nutzerintentionen",
+            "Wind & Handling Stabilizer 2.0 – Dämpfung bis zu 40 dB",
+            "verbesserte Streaming-Stabilität und -Reichweite via Bluetooth Low Energy",
+            "Oticon Companion",
+            "IP68",
+            "Stärke: Sprache klar hervorheben und gleichzeitig Kontext/Umgebung erhalten"
+          ],
+          "comparison": {
+            "n": "Oticon Reveal",
+            "p": "Dual AI / BrainHearing",
+            "no": 2,
+            "na": 2,
+            "au": 2,
+            "co": 5,
+            "ai": "Dual AI (Speech AI + Context AI), Reveal Optimizer, AI Clarifier, 4D-Sensorik, Wind & Handling Stabilizer 2.0",
+            "bt": "Bluetooth Low Energy; direktes Streaming zu kompatiblen iOS-/Android-Geräten",
+            "ac": "Keine bestätigte Auracast-Angabe",
+            "hf": "Freisprechen/Telefonie abhängig vom kompatiblen Endgerät",
+            "ba": "Akku; 1 h Laden für einen ganzen Tag, 15 min für bis zu 4 h",
+            "ap": "Oticon Companion",
+            "tv": "Oticon TV Adapter / kompatibles Zubehör",
+            "st": "Dual AI mit Kontext- und Sprachfokus; Wind-/Handlinggeräuschreduktion bis 40 dB",
+            "ip": "IP68"
+          }
         }
       },
       {
@@ -34,15 +62,43 @@
           "name": "Reveal 2"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – offizielle Produkt-/Downloadseite am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
           "product_locale": "de-DE",
           "product_url": "https://www.oticon.de/products/951178",
-          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
-          "datasheet_url": "https://www.oticon.de/products/951178",
-          "source_title": "Oticon Reveal miniRITE R – offizielle Produktseite mit technischer Produktinformation",
-          "source_url": "https://www.oticon.de/products/951178"
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R",
+          "datasheet_url": "https://www.oticon.de/professionals/resource-center",
+          "source_title": "Technische Produktinformation Oticon Reveal miniRITE R",
+          "source_url": "https://www.oticon.de/products/951178",
+          "features": [
+            "Reveal AI Plattform mit Dual AI: Speech AI + Context AI",
+            "Reveal Optimizer",
+            "AI Clarifier",
+            "4D-Sensortechnologie zur Erkennung von Nutzerintentionen",
+            "Wind & Handling Stabilizer 2.0 – Dämpfung bis zu 40 dB",
+            "verbesserte Streaming-Stabilität und -Reichweite via Bluetooth Low Energy",
+            "Oticon Companion",
+            "IP68",
+            "Stärke: Sprache klar hervorheben und gleichzeitig Kontext/Umgebung erhalten"
+          ],
+          "comparison": {
+            "n": "Oticon Reveal",
+            "p": "Dual AI / BrainHearing",
+            "no": 2,
+            "na": 2,
+            "au": 2,
+            "co": 5,
+            "ai": "Dual AI (Speech AI + Context AI), Reveal Optimizer, AI Clarifier, 4D-Sensorik, Wind & Handling Stabilizer 2.0",
+            "bt": "Bluetooth Low Energy; direktes Streaming zu kompatiblen iOS-/Android-Geräten",
+            "ac": "Keine bestätigte Auracast-Angabe",
+            "hf": "Freisprechen/Telefonie abhängig vom kompatiblen Endgerät",
+            "ba": "Akku; 1 h Laden für einen ganzen Tag, 15 min für bis zu 4 h",
+            "ap": "Oticon Companion",
+            "tv": "Oticon TV Adapter / kompatibles Zubehör",
+            "st": "Dual AI mit Kontext- und Sprachfokus; Wind-/Handlinggeräuschreduktion bis 40 dB",
+            "ip": "IP68"
+          }
         }
       },
       {
@@ -52,15 +108,43 @@
           "name": "Reveal 3"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – offizielle Produkt-/Downloadseite am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
           "product_locale": "de-DE",
           "product_url": "https://www.oticon.de/products/951178",
-          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
-          "datasheet_url": "https://www.oticon.de/products/951178",
-          "source_title": "Oticon Reveal miniRITE R – offizielle Produktseite mit technischer Produktinformation",
-          "source_url": "https://www.oticon.de/products/951178"
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R",
+          "datasheet_url": "https://www.oticon.de/professionals/resource-center",
+          "source_title": "Technische Produktinformation Oticon Reveal miniRITE R",
+          "source_url": "https://www.oticon.de/products/951178",
+          "features": [
+            "Reveal AI Plattform mit Dual AI: Speech AI + Context AI",
+            "Reveal Optimizer",
+            "AI Clarifier",
+            "4D-Sensortechnologie zur Erkennung von Nutzerintentionen",
+            "Wind & Handling Stabilizer 2.0 – Dämpfung bis zu 40 dB",
+            "verbesserte Streaming-Stabilität und -Reichweite via Bluetooth Low Energy",
+            "Oticon Companion",
+            "IP68",
+            "Stärke: Sprache klar hervorheben und gleichzeitig Kontext/Umgebung erhalten"
+          ],
+          "comparison": {
+            "n": "Oticon Reveal",
+            "p": "Dual AI / BrainHearing",
+            "no": 2,
+            "na": 2,
+            "au": 2,
+            "co": 5,
+            "ai": "Dual AI (Speech AI + Context AI), Reveal Optimizer, AI Clarifier, 4D-Sensorik, Wind & Handling Stabilizer 2.0",
+            "bt": "Bluetooth Low Energy; direktes Streaming zu kompatiblen iOS-/Android-Geräten",
+            "ac": "Keine bestätigte Auracast-Angabe",
+            "hf": "Freisprechen/Telefonie abhängig vom kompatiblen Endgerät",
+            "ba": "Akku; 1 h Laden für einen ganzen Tag, 15 min für bis zu 4 h",
+            "ap": "Oticon Companion",
+            "tv": "Oticon TV Adapter / kompatibles Zubehör",
+            "st": "Dual AI mit Kontext- und Sprachfokus; Wind-/Handlinggeräuschreduktion bis 40 dB",
+            "ip": "IP68"
+          }
         }
       },
       {
@@ -70,159 +154,703 @@
           "name": "Reveal 4"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – offizielle Produkt-/Downloadseite am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
           "product_locale": "de-DE",
           "product_url": "https://www.oticon.de/products/951178",
-          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
-          "datasheet_url": "https://www.oticon.de/products/951178",
-          "source_title": "Oticon Reveal miniRITE R – offizielle Produktseite mit technischer Produktinformation",
-          "source_url": "https://www.oticon.de/products/951178"
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R",
+          "datasheet_url": "https://www.oticon.de/professionals/resource-center",
+          "source_title": "Technische Produktinformation Oticon Reveal miniRITE R",
+          "source_url": "https://www.oticon.de/products/951178",
+          "features": [
+            "Reveal AI Plattform mit Dual AI: Speech AI + Context AI",
+            "Reveal Optimizer",
+            "AI Clarifier",
+            "4D-Sensortechnologie zur Erkennung von Nutzerintentionen",
+            "Wind & Handling Stabilizer 2.0 – Dämpfung bis zu 40 dB",
+            "verbesserte Streaming-Stabilität und -Reichweite via Bluetooth Low Energy",
+            "Oticon Companion",
+            "IP68",
+            "Stärke: Sprache klar hervorheben und gleichzeitig Kontext/Umgebung erhalten"
+          ],
+          "comparison": {
+            "n": "Oticon Reveal",
+            "p": "Dual AI / BrainHearing",
+            "no": 2,
+            "na": 2,
+            "au": 2,
+            "co": 5,
+            "ai": "Dual AI (Speech AI + Context AI), Reveal Optimizer, AI Clarifier, 4D-Sensorik, Wind & Handling Stabilizer 2.0",
+            "bt": "Bluetooth Low Energy; direktes Streaming zu kompatiblen iOS-/Android-Geräten",
+            "ac": "Keine bestätigte Auracast-Angabe",
+            "hf": "Freisprechen/Telefonie abhängig vom kompatiblen Endgerät",
+            "ba": "Akku; 1 h Laden für einen ganzen Tag, 15 min für bis zu 4 h",
+            "ap": "Oticon Companion",
+            "tv": "Oticon TV Adapter / kompatibles Zubehör",
+            "st": "Dual AI mit Kontext- und Sprachfokus; Wind-/Handlinggeräuschreduktion bis 40 dB",
+            "ip": "IP68"
+          }
         }
       },
       {
         "match": {
-          "id": "price_059",
-          "manufacturer": "GN ReSound",
-          "name": "Sensia 9"
+          "id": "price_146",
+          "manufacturer": "Widex",
+          "name": "ALLURE 440 BTE R D"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "de-DE / en-US Pro",
-          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
-          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
-          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
-          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
-          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_060",
-          "manufacturer": "GN ReSound",
-          "name": "Sensia 9 Akku"
+          "id": "price_149",
+          "manufacturer": "Widex",
+          "name": "ALLURE ITE R D 440, ACRD1"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "de-DE / en-US Pro",
-          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
-          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
-          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
-          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
-          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_064",
-          "manufacturer": "GN ReSound",
-          "name": "Sensia 7"
+          "id": "price_152",
+          "manufacturer": "Widex",
+          "name": "ALLURE ARRD2 440 AI RIC R D (ab 1.9)"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "de-DE / en-US Pro",
-          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
-          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
-          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
-          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
-          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/ai-ric-r-d/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/ai-ric-r-d/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Clarity Boost mit dediziertem audio-spezifischem KI-Coprozessor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang als Basis, zusätzliche KI-Sprachklarheit auf Knopfdruck"
+          ],
+          "comparison": {
+            "n": "Widex Allure AI RIC",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 2,
+            "na": 1,
+            "au": 2,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology plus Clarity Boost mit dediziertem audio-spezifischem KI-Coprozessor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Widex-Klang im Alltag; Clarity Boost liefert bei Bedarf zusätzliche Sprachklarheit im Störlärm",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_065",
-          "manufacturer": "GN ReSound",
-          "name": "Sensia 7 Akku"
+          "id": "price_153",
+          "manufacturer": "Widex",
+          "name": "ALLURE RC-RIC R D 440"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "de-DE / en-US Pro",
-          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
-          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
-          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
-          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
-          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_069",
-          "manufacturer": "GN ReSound",
-          "name": "Sensia 5"
+          "id": "price_157",
+          "manufacturer": "Widex",
+          "name": "ALLURE 330 BTE R D"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "de-DE / en-US Pro",
-          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
-          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
-          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
-          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
-          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_070",
-          "manufacturer": "GN ReSound",
-          "name": "Sensia 5 Akku"
+          "id": "price_160",
+          "manufacturer": "Widex",
+          "name": "ALLURE ITE R D 330, ACRD1"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "de-DE / en-US Pro",
-          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
-          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
-          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
-          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
-          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_075",
-          "manufacturer": "GN ReSound",
-          "name": "Sensia 4"
+          "id": "price_163",
+          "manufacturer": "Widex",
+          "name": "ALLURE ARRD2 330 AI RIC R D (ab 1.9)"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "de-DE / en-US Pro",
-          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
-          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
-          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
-          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
-          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/ai-ric-r-d/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/ai-ric-r-d/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Clarity Boost mit dediziertem audio-spezifischem KI-Coprozessor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang als Basis, zusätzliche KI-Sprachklarheit auf Knopfdruck"
+          ],
+          "comparison": {
+            "n": "Widex Allure AI RIC",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 2,
+            "na": 1,
+            "au": 2,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology plus Clarity Boost mit dediziertem audio-spezifischem KI-Coprozessor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Widex-Klang im Alltag; Clarity Boost liefert bei Bedarf zusätzliche Sprachklarheit im Störlärm",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_076",
-          "manufacturer": "GN ReSound",
-          "name": "Sensia 4 Akku"
+          "id": "price_164",
+          "manufacturer": "Widex",
+          "name": "ALLURE RC-RIC R D 330"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Sensia Support/Datenblätter am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "de-DE / en-US Pro",
-          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
-          "datasheet_label": "ReSound Sensia – RIE Datenblätter (Standard Receiver / M&RIE)",
-          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
-          "source_title": "ReSound Sensia – offizieller Pro-Support mit aktuellen Datenblättern",
-          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_168",
+          "manufacturer": "Widex",
+          "name": "ALLURE BTE R D 220"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_171",
+          "manufacturer": "Widex",
+          "name": "ALLURE ITE R D 220, ACRD1"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_174",
+          "manufacturer": "Widex",
+          "name": "ALLURE RC-RIC R D 220"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_178",
+          "manufacturer": "Widex",
+          "name": "ALLURE BTE R D 110"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_181",
+          "manufacturer": "Widex",
+          "name": "ALLURE ITE R D 110, ACRD1"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_184",
+          "manufacturer": "Widex",
+          "name": "ALLURE RC-RIC R D 110"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "datasheet_label": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "datasheet_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "source_title": "Widex Allure – aktuelle Produkt-/Technikunterlagen",
+          "source_url": "https://www.widexpro.com/de-de/produkte/allure/",
+          "features": [
+            "W1-Chipplattform / Precision Hearing Technology",
+            "Allure PureSound mit ZeroDelay",
+            "Speech Enhancer Pro",
+            "Enhanced Sound Classifier mit 11 Sound-Klassen",
+            "Dynamic Feedback Controller",
+            "separater Streaming Compressor",
+            "Widex Allure App mit KI-Sound-Assistenten",
+            "Bluetooth Direktstreaming / LE Audio",
+            "TV Play 2",
+            "Stärke: Natürlicher Klang und klare Sprache bei automatischer Anpassung"
+          ],
+          "comparison": {
+            "n": "Widex Allure",
+            "p": "W1 / Precision Hearing Technology",
+            "no": 1,
+            "na": 1,
+            "au": 1,
+            "co": 5,
+            "ai": "W1 / Precision Hearing Technology: Allure PureSound, Speech Enhancer Pro, Enhanced Sound Classifier, Dynamic Feedback Controller, separater Streaming Compressor",
+            "bt": "Direktstreaming mit kompatiblen iPhone-/Android-Geräten; Bluetooth LE Audio",
+            "ac": "Auracast vorbereitet; Verfügbarkeit per Software-/App-Update markt- und geräteabhängig",
+            "hf": "Freihändig bei kompatiblen Allure-Modellen/Smartphones",
+            "ba": "Akku; Ladezeit modell-/ladegerätabhängig",
+            "ap": "Widex Allure App",
+            "tv": "Widex TV Play 2",
+            "st": "Natürlicher Klang und Sprachklarheit mit automatischer Anpassung an 11 Sound-Klassen",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
@@ -232,33 +860,87 @@
           "name": "Illuminate 17"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
           "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
           "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
-          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
-          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+          "source_title": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "source_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
+          "features": [
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "True 360 – automatische Sprachfokussierung in komplexen Umgebungen",
+            "Bluetooth LE Audio",
+            "Auracast bei kompatiblen Bauformen; CIC ausgenommen",
+            "Beltone HearMax App – CIC ausgenommen",
+            "Stärke: gewünschte Sprache automatisch priorisieren, ohne manuelles Umschalten"
+          ],
+          "comparison": {
+            "n": "Beltone Illuminate",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, präzise Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion (True 360)",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Illuminate-Modellen; CIC ausgenommen",
+            "hf": "Hands-free bei RIE und Custom Rechargeable; nicht CIC",
+            "ba": "Akku/Batterie je Bauform",
+            "ap": "Beltone HearMax",
+            "tv": "Beltone TV / Auracast",
+            "st": "Automatische Fokussierung auf die gewünschte Sprache in wechselnden Störlärmsituationen",
+            "ip": "IP68 / Nanobeschichtung"
+          }
         }
       },
       {
         "match": {
           "id": "price_039",
           "manufacturer": "Beltone",
-          "name": "Illuminate 17"
+          "name": "Illuminate 17 Akku"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
           "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
           "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
-          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
-          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+          "source_title": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "source_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
+          "features": [
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "True 360 – automatische Sprachfokussierung in komplexen Umgebungen",
+            "Bluetooth LE Audio",
+            "Auracast bei kompatiblen Bauformen; CIC ausgenommen",
+            "Beltone HearMax App – CIC ausgenommen",
+            "Stärke: gewünschte Sprache automatisch priorisieren, ohne manuelles Umschalten"
+          ],
+          "comparison": {
+            "n": "Beltone Illuminate",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, präzise Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion (True 360)",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Illuminate-Modellen; CIC ausgenommen",
+            "hf": "Hands-free bei RIE und Custom Rechargeable; nicht CIC",
+            "ba": "Akku/Batterie je Bauform",
+            "ap": "Beltone HearMax",
+            "tv": "Beltone TV / Auracast",
+            "st": "Automatische Fokussierung auf die gewünschte Sprache in wechselnden Störlärmsituationen",
+            "ip": "IP68 / Nanobeschichtung"
+          }
         }
       },
       {
@@ -268,33 +950,87 @@
           "name": "Illuminate 9"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
           "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
           "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
-          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
-          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+          "source_title": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "source_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
+          "features": [
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "True 360 – automatische Sprachfokussierung in komplexen Umgebungen",
+            "Bluetooth LE Audio",
+            "Auracast bei kompatiblen Bauformen; CIC ausgenommen",
+            "Beltone HearMax App – CIC ausgenommen",
+            "Stärke: gewünschte Sprache automatisch priorisieren, ohne manuelles Umschalten"
+          ],
+          "comparison": {
+            "n": "Beltone Illuminate",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, präzise Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion (True 360)",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Illuminate-Modellen; CIC ausgenommen",
+            "hf": "Hands-free bei RIE und Custom Rechargeable; nicht CIC",
+            "ba": "Akku/Batterie je Bauform",
+            "ap": "Beltone HearMax",
+            "tv": "Beltone TV / Auracast",
+            "st": "Automatische Fokussierung auf die gewünschte Sprache in wechselnden Störlärmsituationen",
+            "ip": "IP68 / Nanobeschichtung"
+          }
         }
       },
       {
         "match": {
           "id": "price_043",
           "manufacturer": "Beltone",
-          "name": "Illuminate 9"
+          "name": "Illuminate 9 Akku"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
           "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
           "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
-          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
-          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+          "source_title": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "source_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
+          "features": [
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "True 360 – automatische Sprachfokussierung in komplexen Umgebungen",
+            "Bluetooth LE Audio",
+            "Auracast bei kompatiblen Bauformen; CIC ausgenommen",
+            "Beltone HearMax App – CIC ausgenommen",
+            "Stärke: gewünschte Sprache automatisch priorisieren, ohne manuelles Umschalten"
+          ],
+          "comparison": {
+            "n": "Beltone Illuminate",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, präzise Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion (True 360)",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Illuminate-Modellen; CIC ausgenommen",
+            "hf": "Hands-free bei RIE und Custom Rechargeable; nicht CIC",
+            "ba": "Akku/Batterie je Bauform",
+            "ap": "Beltone HearMax",
+            "tv": "Beltone TV / Auracast",
+            "st": "Automatische Fokussierung auf die gewünschte Sprache in wechselnden Störlärmsituationen",
+            "ip": "IP68 / Nanobeschichtung"
+          }
         }
       },
       {
@@ -304,15 +1040,42 @@
           "name": "Illuminate 6"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
           "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
           "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
-          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
-          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+          "source_title": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "source_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
+          "features": [
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "True 360 – automatische Sprachfokussierung in komplexen Umgebungen",
+            "Bluetooth LE Audio",
+            "Auracast bei kompatiblen Bauformen; CIC ausgenommen",
+            "Beltone HearMax App – CIC ausgenommen",
+            "Stärke: gewünschte Sprache automatisch priorisieren, ohne manuelles Umschalten"
+          ],
+          "comparison": {
+            "n": "Beltone Illuminate",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, präzise Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion (True 360)",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Illuminate-Modellen; CIC ausgenommen",
+            "hf": "Hands-free bei RIE und Custom Rechargeable; nicht CIC",
+            "ba": "Akku/Batterie je Bauform",
+            "ap": "Beltone HearMax",
+            "tv": "Beltone TV / Auracast",
+            "st": "Automatische Fokussierung auf die gewünschte Sprache in wechselnden Störlärmsituationen",
+            "ip": "IP68 / Nanobeschichtung"
+          }
         }
       },
       {
@@ -322,15 +1085,42 @@
           "name": "Illuminate 6"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
           "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
           "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
-          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
-          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+          "source_title": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "source_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
+          "features": [
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "True 360 – automatische Sprachfokussierung in komplexen Umgebungen",
+            "Bluetooth LE Audio",
+            "Auracast bei kompatiblen Bauformen; CIC ausgenommen",
+            "Beltone HearMax App – CIC ausgenommen",
+            "Stärke: gewünschte Sprache automatisch priorisieren, ohne manuelles Umschalten"
+          ],
+          "comparison": {
+            "n": "Beltone Illuminate",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, präzise Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion (True 360)",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Illuminate-Modellen; CIC ausgenommen",
+            "hf": "Hands-free bei RIE und Custom Rechargeable; nicht CIC",
+            "ba": "Akku/Batterie je Bauform",
+            "ap": "Beltone HearMax",
+            "tv": "Beltone TV / Auracast",
+            "st": "Automatische Fokussierung auf die gewünschte Sprache in wechselnden Störlärmsituationen",
+            "ip": "IP68 / Nanobeschichtung"
+          }
         }
       },
       {
@@ -340,249 +1130,2015 @@
           "name": "Illuminate 4"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
           "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
           "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
-          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
-          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+          "source_title": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "source_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
+          "features": [
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "True 360 – automatische Sprachfokussierung in komplexen Umgebungen",
+            "Bluetooth LE Audio",
+            "Auracast bei kompatiblen Bauformen; CIC ausgenommen",
+            "Beltone HearMax App – CIC ausgenommen",
+            "Stärke: gewünschte Sprache automatisch priorisieren, ohne manuelles Umschalten"
+          ],
+          "comparison": {
+            "n": "Beltone Illuminate",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, präzise Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion (True 360)",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Illuminate-Modellen; CIC ausgenommen",
+            "hf": "Hands-free bei RIE und Custom Rechargeable; nicht CIC",
+            "ba": "Akku/Batterie je Bauform",
+            "ap": "Beltone HearMax",
+            "tv": "Beltone TV / Auracast",
+            "st": "Automatische Fokussierung auf die gewünschte Sprache in wechselnden Störlärmsituationen",
+            "ip": "IP68 / Nanobeschichtung"
+          }
         }
       },
       {
         "match": {
           "id": "price_051",
           "manufacturer": "Beltone",
-          "name": "Illuminate 4"
+          "name": "Illuminate 4 Akku"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Illuminate Supportmaterialien am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.beltone.com/en-us/media-center/press-releases/press-release-listing/illuminate-hearing-aids-announcement",
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
           "datasheet_label": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
           "datasheet_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support",
-          "source_title": "Beltone Illuminate – offizielle Supportmaterialien",
-          "source_url": "https://www.beltone.com/en/support/hearing-aids-support/beltone-illuminate-support"
+          "source_title": "Beltone Illuminate – aktuelle Support-/Produktunterlagen",
+          "source_url": "https://www.beltone.com/en-us/products/hearing-aids/beltone-illuminate",
+          "features": [
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "True 360 – automatische Sprachfokussierung in komplexen Umgebungen",
+            "Bluetooth LE Audio",
+            "Auracast bei kompatiblen Bauformen; CIC ausgenommen",
+            "Beltone HearMax App – CIC ausgenommen",
+            "Stärke: gewünschte Sprache automatisch priorisieren, ohne manuelles Umschalten"
+          ],
+          "comparison": {
+            "n": "Beltone Illuminate",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, präzise Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion (True 360)",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Illuminate-Modellen; CIC ausgenommen",
+            "hf": "Hands-free bei RIE und Custom Rechargeable; nicht CIC",
+            "ba": "Akku/Batterie je Bauform",
+            "ap": "Beltone HearMax",
+            "tv": "Beltone TV / Auracast",
+            "st": "Automatische Fokussierung auf die gewünschte Sprache in wechselnden Störlärmsituationen",
+            "ip": "IP68 / Nanobeschichtung"
+          }
         }
       },
       {
         "match": {
-          "id": "price_123",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 24 CIC"
+          "id": "price_059",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 9"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
-          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "datasheet_label": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "source_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "features": [
+            "GN AI-Plattform 2026",
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "Intelligent All-Around",
+            "Bluetooth LE Audio / Auracast bei kompatiblen Modellen",
+            "ReSound Smart 3D mit Auracast Assistant",
+            "TV-Streamer+ / Multi-Mic+",
+            "Stärke: gewünschte Stimme gezielt hervorheben statt nur die lauteste Stimme"
+          ],
+          "comparison": {
+            "n": "ReSound Sensia",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, Echtzeit-Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Modellen; Auracast Assistant in Smart 3D",
+            "hf": "Ja, bei kompatiblen Endgeräten",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "ReSound Smart 3D",
+            "tv": "TV-Streamer+",
+            "st": "Hebt die gewünschte Stimme gezielt hervor – nicht nur die lauteste Stimme im Raum",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_124",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 24 ITC R / ITE R"
+          "id": "price_060",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 9 Akku"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI ITE R – Technical Data (24/20/16)",
-          "datasheet_url": "https://eifu.starkey.com/eifu/datasheets-prod-2-12-25/Omega%20AI%20Product%20Datasheets/SPEC3103/SPEC3103-00-EN-ST%20-%20Omega%20AI%20Wireless%20Tech%20Tiers%20ITE%20R%20-%20English.pdf",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "datasheet_label": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "source_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "features": [
+            "GN AI-Plattform 2026",
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "Intelligent All-Around",
+            "Bluetooth LE Audio / Auracast bei kompatiblen Modellen",
+            "ReSound Smart 3D mit Auracast Assistant",
+            "TV-Streamer+ / Multi-Mic+",
+            "Stärke: gewünschte Stimme gezielt hervorheben statt nur die lauteste Stimme"
+          ],
+          "comparison": {
+            "n": "ReSound Sensia",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, Echtzeit-Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Modellen; Auracast Assistant in Smart 3D",
+            "hf": "Ja, bei kompatiblen Endgeräten",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "ReSound Smart 3D",
+            "tv": "TV-Streamer+",
+            "st": "Hebt die gewünschte Stimme gezielt hervor – nicht nur die lauteste Stimme im Raum",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_125",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 24 RIC 312"
+          "id": "price_064",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 7"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
-          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "datasheet_label": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "source_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "features": [
+            "GN AI-Plattform 2026",
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "Intelligent All-Around",
+            "Bluetooth LE Audio / Auracast bei kompatiblen Modellen",
+            "ReSound Smart 3D mit Auracast Assistant",
+            "TV-Streamer+ / Multi-Mic+",
+            "Stärke: gewünschte Stimme gezielt hervorheben statt nur die lauteste Stimme"
+          ],
+          "comparison": {
+            "n": "ReSound Sensia",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, Echtzeit-Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Modellen; Auracast Assistant in Smart 3D",
+            "hf": "Ja, bei kompatiblen Endgeräten",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "ReSound Smart 3D",
+            "tv": "TV-Streamer+",
+            "st": "Hebt die gewünschte Stimme gezielt hervor – nicht nur die lauteste Stimme im Raum",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_126",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 24 mRIC R*"
+          "id": "price_065",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 7 Akku"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
-          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "datasheet_label": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "source_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "features": [
+            "GN AI-Plattform 2026",
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "Intelligent All-Around",
+            "Bluetooth LE Audio / Auracast bei kompatiblen Modellen",
+            "ReSound Smart 3D mit Auracast Assistant",
+            "TV-Streamer+ / Multi-Mic+",
+            "Stärke: gewünschte Stimme gezielt hervorheben statt nur die lauteste Stimme"
+          ],
+          "comparison": {
+            "n": "ReSound Sensia",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, Echtzeit-Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Modellen; Auracast Assistant in Smart 3D",
+            "hf": "Ja, bei kompatiblen Endgeräten",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "ReSound Smart 3D",
+            "tv": "TV-Streamer+",
+            "st": "Hebt die gewünschte Stimme gezielt hervor – nicht nur die lauteste Stimme im Raum",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_129",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 20 CIC"
+          "id": "price_069",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 5"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
-          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "datasheet_label": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "source_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "features": [
+            "GN AI-Plattform 2026",
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "Intelligent All-Around",
+            "Bluetooth LE Audio / Auracast bei kompatiblen Modellen",
+            "ReSound Smart 3D mit Auracast Assistant",
+            "TV-Streamer+ / Multi-Mic+",
+            "Stärke: gewünschte Stimme gezielt hervorheben statt nur die lauteste Stimme"
+          ],
+          "comparison": {
+            "n": "ReSound Sensia",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, Echtzeit-Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Modellen; Auracast Assistant in Smart 3D",
+            "hf": "Ja, bei kompatiblen Endgeräten",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "ReSound Smart 3D",
+            "tv": "TV-Streamer+",
+            "st": "Hebt die gewünschte Stimme gezielt hervor – nicht nur die lauteste Stimme im Raum",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_130",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 20 ITC R / ITE R"
+          "id": "price_070",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 5 Akku"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI ITE R – Technical Data (24/20/16)",
-          "datasheet_url": "https://eifu.starkey.com/eifu/datasheets-prod-2-12-25/Omega%20AI%20Product%20Datasheets/SPEC3103/SPEC3103-00-EN-ST%20-%20Omega%20AI%20Wireless%20Tech%20Tiers%20ITE%20R%20-%20English.pdf",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "datasheet_label": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "source_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "features": [
+            "GN AI-Plattform 2026",
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "Intelligent All-Around",
+            "Bluetooth LE Audio / Auracast bei kompatiblen Modellen",
+            "ReSound Smart 3D mit Auracast Assistant",
+            "TV-Streamer+ / Multi-Mic+",
+            "Stärke: gewünschte Stimme gezielt hervorheben statt nur die lauteste Stimme"
+          ],
+          "comparison": {
+            "n": "ReSound Sensia",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, Echtzeit-Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Modellen; Auracast Assistant in Smart 3D",
+            "hf": "Ja, bei kompatiblen Endgeräten",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "ReSound Smart 3D",
+            "tv": "TV-Streamer+",
+            "st": "Hebt die gewünschte Stimme gezielt hervor – nicht nur die lauteste Stimme im Raum",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_131",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 20 RIC 312"
+          "id": "price_075",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 4"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
-          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "datasheet_label": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "source_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "features": [
+            "GN AI-Plattform 2026",
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "Intelligent All-Around",
+            "Bluetooth LE Audio / Auracast bei kompatiblen Modellen",
+            "ReSound Smart 3D mit Auracast Assistant",
+            "TV-Streamer+ / Multi-Mic+",
+            "Stärke: gewünschte Stimme gezielt hervorheben statt nur die lauteste Stimme"
+          ],
+          "comparison": {
+            "n": "ReSound Sensia",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, Echtzeit-Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Modellen; Auracast Assistant in Smart 3D",
+            "hf": "Ja, bei kompatiblen Endgeräten",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "ReSound Smart 3D",
+            "tv": "TV-Streamer+",
+            "st": "Hebt die gewünschte Stimme gezielt hervor – nicht nur die lauteste Stimme im Raum",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_132",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 20 mRIC R*"
+          "id": "price_076",
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 4 Akku"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
-          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "datasheet_label": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "datasheet_url": "https://pro.resound.com/en-us/products/support-materials/sensia-support",
+          "source_title": "ReSound Sensia – aktueller Pro-Support und Datenblätter",
+          "source_url": "https://www.resound.com/en-us/press/resound-sensia-hearing-aids",
+          "features": [
+            "GN AI-Plattform 2026",
+            "AcoustIQ Echtzeit-Umgebungs-Klassifikation",
+            "4-Mikrofon-Beamforming",
+            "DNN-basierte Rauschreduktion",
+            "Intelligent All-Around",
+            "Bluetooth LE Audio / Auracast bei kompatiblen Modellen",
+            "ReSound Smart 3D mit Auracast Assistant",
+            "TV-Streamer+ / Multi-Mic+",
+            "Stärke: gewünschte Stimme gezielt hervorheben statt nur die lauteste Stimme"
+          ],
+          "comparison": {
+            "n": "ReSound Sensia",
+            "p": "GN AI-Plattform 2026",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 5,
+            "ai": "AcoustIQ, Echtzeit-Umgebungs-Klassifikation, 4-Mikrofon-Beamforming und DNN-Rauschreduktion",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Auracast bei kompatiblen Modellen; Auracast Assistant in Smart 3D",
+            "hf": "Ja, bei kompatiblen Endgeräten",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "ReSound Smart 3D",
+            "tv": "TV-Streamer+",
+            "st": "Hebt die gewünschte Stimme gezielt hervor – nicht nur die lauteste Stimme im Raum",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_135",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 16 CIC"
+          "id": "price_001",
+          "manufacturer": "Audio Service",
+          "name": "B M Li 8.16"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
-          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_136",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 16 ITC R / ITE R"
+          "id": "price_002",
+          "manufacturer": "Audio Service",
+          "name": "B SP Li 8.16"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI ITE R – Technical Data (24/20/16)",
-          "datasheet_url": "https://eifu.starkey.com/eifu/datasheets-prod-2-12-25/Omega%20AI%20Product%20Datasheets/SPEC3103/SPEC3103-00-EN-ST%20-%20Omega%20AI%20Wireless%20Tech%20Tiers%20ITE%20R%20-%20English.pdf",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_137",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 16 RIC 312"
+          "id": "price_003",
+          "manufacturer": "Audio Service",
+          "name": "CIC Li 8.16"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
-          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
         }
       },
       {
         "match": {
-          "id": "price_138",
-          "manufacturer": "Starkey",
-          "name": "Omega AI 16 mRIC R*"
+          "id": "price_004",
+          "manufacturer": "Audio Service",
+          "name": "DIC/CIC 8.16"
         },
         "technical_data": {
-          "status": "Herstellerdaten vorhanden – Omega AI Product Resource Hub am 17.09.2026 geprüft",
-          "verified_date": "17.09.2026",
-          "link_verified_date": "17.09.2026",
-          "product_locale": "en-US",
-          "product_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai",
-          "datasheet_label": "Starkey Omega AI – Product Resource Hub / technische Datenblätter",
-          "datasheet_url": "https://www.starkeypro.com/products/hearing-aids/product-resource-hub",
-          "source_title": "StarkeyPro Omega AI – offizielle Produkt- und Datenblattquelle",
-          "source_url": "https://www.starkeypro.com/products/hearing-aids/omega-ai"
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_005",
+          "manufacturer": "Audio Service",
+          "name": "IF CIC Li 8.16"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_006",
+          "manufacturer": "Audio Service",
+          "name": "R Li 8.16"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_007",
+          "manufacturer": "Audio Service",
+          "name": "R Li T BC 8.16"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_008",
+          "manufacturer": "Audio Service",
+          "name": "B M Li 8.12"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_009",
+          "manufacturer": "Audio Service",
+          "name": "B SP Li 8.12"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_010",
+          "manufacturer": "Audio Service",
+          "name": "CIC Li 8.12"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_011",
+          "manufacturer": "Audio Service",
+          "name": "DIC/CIC 8.12"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_012",
+          "manufacturer": "Audio Service",
+          "name": "IF CIC Li 8.12"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_013",
+          "manufacturer": "Audio Service",
+          "name": "R Li 8.12"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_014",
+          "manufacturer": "Audio Service",
+          "name": "R Li T BC 8.12"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_015",
+          "manufacturer": "Audio Service",
+          "name": "B M Li 8.8"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_016",
+          "manufacturer": "Audio Service",
+          "name": "B SP Li 8.8"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_017",
+          "manufacturer": "Audio Service",
+          "name": "CIC Li 8.8"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_018",
+          "manufacturer": "Audio Service",
+          "name": "DIC/CIC 8.8"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_019",
+          "manufacturer": "Audio Service",
+          "name": "IF CIC Li 8.8"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_020",
+          "manufacturer": "Audio Service",
+          "name": "R Li T BC 8.8"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_021",
+          "manufacturer": "Audio Service",
+          "name": "R Li. 8.8"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_022",
+          "manufacturer": "Audio Service",
+          "name": "B M Li 8.6"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_023",
+          "manufacturer": "Audio Service",
+          "name": "B SP Li 8.6"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_024",
+          "manufacturer": "Audio Service",
+          "name": "CIC Li 8.6"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_025",
+          "manufacturer": "Audio Service",
+          "name": "DIC/CIC 8.6"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_026",
+          "manufacturer": "Audio Service",
+          "name": "IF CIC Li 8.6"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_027",
+          "manufacturer": "Audio Service",
+          "name": "R Li 8.6"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_028",
+          "manufacturer": "Audio Service",
+          "name": "R Li T BC 8.6"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_029",
+          "manufacturer": "Audio Service",
+          "name": "B M Li 8.4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_030",
+          "manufacturer": "Audio Service",
+          "name": "B SP Li 8.4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_031",
+          "manufacturer": "Audio Service",
+          "name": "CIC Li 8.4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_032",
+          "manufacturer": "Audio Service",
+          "name": "DIC/ CIC 8.4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_033",
+          "manufacturer": "Audio Service",
+          "name": "IF CIC Li 8.4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "kein direktes Bluetooth-Audiostreaming bei dieser CIC/DIC-Bauform",
+            "Stärke: diskrete Bauform mit G8-Sprachoptimierung"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 1,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Kein direktes Bluetooth-Audiostreaming",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "Kein direktes TV-Streaming; Zubehör-/Steuerfunktionen bauformabhängig",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_034",
+          "manufacturer": "Audio Service",
+          "name": "R Li 8.4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_035",
+          "manufacturer": "Audio Service",
+          "name": "R Li T BC 8.4"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/service/downloads/",
+          "datasheet_label": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "datasheet_url": "https://www.audioservice.com/de/service/downloads/",
+          "source_title": "Audio Service Produktkatalog April 2026 / G8-Unterlagen",
+          "source_url": "https://www.audioservice.com/de/service/downloads/",
+          "features": [
+            "G8-Plattform",
+            "Auto Optimization",
+            "Multi-Track Processing – je Bauform/Tech Level",
+            "automatische Sprach-/Störlärmverarbeitung",
+            "Audio Service App / Fernsteuerung je Modell",
+            "Wireless-/Streaming-Funktionen modellabhängig",
+            "TV Sound / Zubehör bei kompatiblen Modellen",
+            "Stärke: mehrere Gesprächspartner in lauten sozialen Situationen unterstützen"
+          ],
+          "comparison": {
+            "n": "Audio Service G8",
+            "p": "G8",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "G8 Auto Optimization und Multi-Track Processing – Ausstattung abhängig von Bauform und Tech Level",
+            "bt": "Bluetooth/Streaming bei kompatiblen G8-Modellen",
+            "ac": "LE Audio/Auracast modell- und geräteabhängig",
+            "hf": "Headset-Modus bei kompatiblen Modellen",
+            "ba": "Akku/Batterie je Modell",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / Zubehör",
+            "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
         }
       }
     ]
