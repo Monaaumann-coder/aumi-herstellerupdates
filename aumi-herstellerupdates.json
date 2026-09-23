@@ -1,13 +1,13 @@
 {
   "format": "AUMI_MANUFACTURER_FEED_V1",
-  "revision": "2026-09-23.1",
-  "published_at": "2026-09-23T13:55:00+02:00",
-  "title": "Aumi Herstellerdaten – Prüfung 23.09.2026",
-  "note": "Oticon, Widex, Beltone, GN ReSound und Audio Service wurden gegen aktuelle offizielle Produkt-, Support- und Datenblattquellen geprüft. Neue 2026-Features wurden ergänzt. Vergleichsprofile werden pro Produkt mitgeliefert, damit aktuelle Features im Aumi-Gerätevergleich erscheinen. Preise, Aktionen, Bilder, Ex-Hörer, Zubehör und Aumann-Stammdaten bleiben unverändert.",
+  "revision": "2026-09-23.2",
+  "published_at": "2026-09-23T14:35:00+02:00",
+  "title": "Aumi Herstellerdaten – Datenblätter & Vergleich 23.09.2026",
+  "note": "Aktualisierung nach erneuter Herstellerprüfung: Oticon Reveal erhält die inzwischen veröffentlichte deutsche technische Produktinformation mit leistungsstufenspezifischen Features und vollständigen Vergleichsfeldern. ReSound Savi CIC wird gemäß aktuellem Pro-Datenblatt als non-wireless geführt; Savi ITC bleibt Bluetooth LE Audio/Auracast-fähig. Widex Allure/Allure AI RIC, Beltone Illuminate, ReSound Sensia und Audio Service G8 wurden erneut gegen aktuelle Herstellerquellen geprüft. Aumann-VKs, Aktionen, Bilder, Ex-Hörer, Zubehör und sonstige Stammdaten bleiben unverändert.",
   "payload": {
     "format": "AUMI_PRODUCT_UPDATE_V1",
-    "created_at": "2026-09-23T13:55:00+02:00",
-    "note": "Herstellerprüfung 23.09.2026 – technische Daten, Quellen, Features und Vergleichsprofile aktualisiert.",
+    "created_at": "2026-09-23T14:35:00+02:00",
+    "note": "Herstellerprüfung 23.09.2026 – Reveal-Datenblatt vollständig ergänzt; Savi CIC/ITC-Konnektivität korrigiert; Vergleichsprofile aktualisiert.",
     "products": [
       {
         "match": {
@@ -16,43 +16,89 @@
           "name": "Reveal 1"
         },
         "technical_data": {
-          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "status": "Verifiziertes Hersteller-Datenblatt – deutsche technische Produktinformation Reveal miniRITE R, geprüft 23.09.2026",
           "verified_date": "23.09.2026",
           "link_verified_date": "23.09.2026",
           "product_locale": "de-DE",
           "product_url": "https://www.oticon.de/products/951178",
-          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R",
-          "datasheet_url": "https://www.oticon.de/professionals/resource-center",
-          "source_title": "Technische Produktinformation Oticon Reveal miniRITE R",
-          "source_url": "https://www.oticon.de/products/951178",
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
+          "datasheet_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf",
+          "source_title": "Oticon Reveal miniRITE R – Technische Daten",
+          "source_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf",
           "features": [
-            "Reveal AI Plattform mit Dual AI: Speech AI + Context AI",
+            "Reveal AI Plattform",
+            "Dual AI: Speech AI + Context AI",
+            "4D-Sensortechnologie",
+            "Umgebungsanalyse: 5 Einstellungen",
+            "AI Voice Clarifier",
+            "AI Noise Suppression: 12 dB komplex / 6 dB einfach",
+            "Wind & Handling Stabilizer 2.0",
             "Reveal Optimizer",
-            "AI Clarifier",
-            "4D-Sensortechnologie zur Erkennung von Nutzerintentionen",
-            "Wind & Handling Stabilizer 2.0 – Dämpfung bis zu 40 dB",
-            "verbesserte Streaming-Stabilität und -Reichweite via Bluetooth Low Energy",
+            "Spatial Sound: 4 Frequenzbänder",
+            "Clear Dynamics",
+            "Better-Ear Priority",
+            "Übertragungs-Bandbreite: 10 kHz",
+            "64 Frequenzkanäle / 24 Anpass-Kanäle",
+            "Bluetooth LE Audio",
+            "Auracast",
+            "Freihändig kommunizieren",
             "Oticon Companion",
-            "IP68",
-            "Stärke: Sprache klar hervorheben und gleichzeitig Kontext/Umgebung erhalten"
+            "TV Adapter 3.0",
+            "Akku: erwartete Betriebszeit 24 h"
           ],
           "comparison": {
-            "n": "Oticon Reveal",
-            "p": "Dual AI / BrainHearing",
+            "n": "Oticon Reveal 1",
+            "p": "Reveal AI / Dual AI",
             "no": 2,
             "na": 2,
             "au": 2,
             "co": 5,
-            "ai": "Dual AI (Speech AI + Context AI), Reveal Optimizer, AI Clarifier, 4D-Sensorik, Wind & Handling Stabilizer 2.0",
-            "bt": "Bluetooth Low Energy; direktes Streaming zu kompatiblen iOS-/Android-Geräten",
-            "ac": "Keine bestätigte Auracast-Angabe",
-            "hf": "Freisprechen/Telefonie abhängig vom kompatiblen Endgerät",
-            "ba": "Akku; 1 h Laden für einen ganzen Tag, 15 min für bis zu 4 h",
+            "ai": "Dual AI (Speech AI + Context AI), 4D-Sensorik, AI Voice Clarifier, AI Noise Suppression 12/6 dB, Reveal Optimizer, Wind & Handling Stabilizer 2.0",
+            "bt": "Bluetooth LE Audio + Bluetooth Low Energy",
+            "ac": "Ja – Auracast",
+            "hf": "Ja, mit kompatiblen Geräten",
+            "ba": "Li-Ion Akku · erwartete Betriebszeit 24 h; 15 min Schnellladen bis zu 4 h",
             "ap": "Oticon Companion",
-            "tv": "Oticon TV Adapter / kompatibles Zubehör",
-            "st": "Dual AI mit Kontext- und Sprachfokus; Wind-/Handlinggeräuschreduktion bis 40 dB",
+            "tv": "TV Adapter 3.0 / Auracast",
+            "st": "100 % AI-Clarifier-Stärke, 5-stufige Umgebungsanalyse, 4D-Sensorik und 10-kHz-Bandbreite",
             "ip": "IP68"
-          }
+          },
+          "acoustic_note": "Herstellerdaten aus der technischen Produktinformation Oticon Reveal miniRITE R. Maximalverstärkung nach Ohrsimulator, abhängig vom miniFit Detect-Hörer.",
+          "acoustic_rows": [
+            {
+              "variant": "60-Hörer",
+              "max_gain": "44 dB",
+              "frequency": "<100–9400 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "85-Hörer",
+              "max_gain": "66 dB",
+              "frequency": "<100–9400 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "100-Hörer",
+              "max_gain": "69 dB",
+              "frequency": "<100–8800 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "105-Hörer",
+              "max_gain": "72 dB",
+              "frequency": "<100–8800 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            }
+          ],
+          "fitting_range_note": "Verifizierte Hersteller-Anpassbereiche im Reveal-Datenblatt.",
+          "fitting_range_status": "Verifizierte Hersteller-Fitting-Range verfügbar",
+          "fitting_range_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true
         }
       },
       {
@@ -62,43 +108,89 @@
           "name": "Reveal 2"
         },
         "technical_data": {
-          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "status": "Verifiziertes Hersteller-Datenblatt – deutsche technische Produktinformation Reveal miniRITE R, geprüft 23.09.2026",
           "verified_date": "23.09.2026",
           "link_verified_date": "23.09.2026",
           "product_locale": "de-DE",
           "product_url": "https://www.oticon.de/products/951178",
-          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R",
-          "datasheet_url": "https://www.oticon.de/professionals/resource-center",
-          "source_title": "Technische Produktinformation Oticon Reveal miniRITE R",
-          "source_url": "https://www.oticon.de/products/951178",
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
+          "datasheet_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf",
+          "source_title": "Oticon Reveal miniRITE R – Technische Daten",
+          "source_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf",
           "features": [
-            "Reveal AI Plattform mit Dual AI: Speech AI + Context AI",
+            "Reveal AI Plattform",
+            "Dual AI: Speech AI + Context AI",
+            "4D-Sensortechnologie",
+            "Umgebungsanalyse: 5 Einstellungen",
+            "AI Voice Clarifier",
+            "AI Noise Suppression: 10 dB komplex / 4 dB einfach",
+            "Wind & Handling Stabilizer 2.0",
             "Reveal Optimizer",
-            "AI Clarifier",
-            "4D-Sensortechnologie zur Erkennung von Nutzerintentionen",
-            "Wind & Handling Stabilizer 2.0 – Dämpfung bis zu 40 dB",
-            "verbesserte Streaming-Stabilität und -Reichweite via Bluetooth Low Energy",
+            "Spatial Sound: 4 Frequenzbänder",
+            "Clear Dynamics",
+            "Better-Ear Priority",
+            "Übertragungs-Bandbreite: 8 kHz",
+            "48 Frequenzkanäle / 20 Anpass-Kanäle",
+            "Bluetooth LE Audio",
+            "Auracast",
+            "Freihändig kommunizieren",
             "Oticon Companion",
-            "IP68",
-            "Stärke: Sprache klar hervorheben und gleichzeitig Kontext/Umgebung erhalten"
+            "TV Adapter 3.0",
+            "Akku: erwartete Betriebszeit 24 h"
           ],
           "comparison": {
-            "n": "Oticon Reveal",
-            "p": "Dual AI / BrainHearing",
-            "no": 2,
-            "na": 2,
-            "au": 2,
+            "n": "Oticon Reveal 2",
+            "p": "Reveal AI / Dual AI",
+            "no": 1,
+            "na": 1,
+            "au": 1,
             "co": 5,
-            "ai": "Dual AI (Speech AI + Context AI), Reveal Optimizer, AI Clarifier, 4D-Sensorik, Wind & Handling Stabilizer 2.0",
-            "bt": "Bluetooth Low Energy; direktes Streaming zu kompatiblen iOS-/Android-Geräten",
-            "ac": "Keine bestätigte Auracast-Angabe",
-            "hf": "Freisprechen/Telefonie abhängig vom kompatiblen Endgerät",
-            "ba": "Akku; 1 h Laden für einen ganzen Tag, 15 min für bis zu 4 h",
+            "ai": "Dual AI (Speech AI + Context AI), 4D-Sensorik, AI Voice Clarifier, AI Noise Suppression 10/4 dB, Reveal Optimizer, Wind & Handling Stabilizer 2.0",
+            "bt": "Bluetooth LE Audio + Bluetooth Low Energy",
+            "ac": "Ja – Auracast",
+            "hf": "Ja, mit kompatiblen Geräten",
+            "ba": "Li-Ion Akku · erwartete Betriebszeit 24 h; 15 min Schnellladen bis zu 4 h",
             "ap": "Oticon Companion",
-            "tv": "Oticon TV Adapter / kompatibles Zubehör",
-            "st": "Dual AI mit Kontext- und Sprachfokus; Wind-/Handlinggeräuschreduktion bis 40 dB",
+            "tv": "TV Adapter 3.0 / Auracast",
+            "st": "60 % AI-Clarifier-Stärke, 5-stufige Umgebungsanalyse und 4D-Sensorik",
             "ip": "IP68"
-          }
+          },
+          "acoustic_note": "Herstellerdaten aus der technischen Produktinformation Oticon Reveal miniRITE R. Maximalverstärkung nach Ohrsimulator, abhängig vom miniFit Detect-Hörer.",
+          "acoustic_rows": [
+            {
+              "variant": "60-Hörer",
+              "max_gain": "44 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "85-Hörer",
+              "max_gain": "66 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "100-Hörer",
+              "max_gain": "69 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "105-Hörer",
+              "max_gain": "72 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            }
+          ],
+          "fitting_range_note": "Verifizierte Hersteller-Anpassbereiche im Reveal-Datenblatt.",
+          "fitting_range_status": "Verifizierte Hersteller-Fitting-Range verfügbar",
+          "fitting_range_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true
         }
       },
       {
@@ -108,43 +200,87 @@
           "name": "Reveal 3"
         },
         "technical_data": {
-          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "status": "Verifiziertes Hersteller-Datenblatt – deutsche technische Produktinformation Reveal miniRITE R, geprüft 23.09.2026",
           "verified_date": "23.09.2026",
           "link_verified_date": "23.09.2026",
           "product_locale": "de-DE",
           "product_url": "https://www.oticon.de/products/951178",
-          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R",
-          "datasheet_url": "https://www.oticon.de/professionals/resource-center",
-          "source_title": "Technische Produktinformation Oticon Reveal miniRITE R",
-          "source_url": "https://www.oticon.de/products/951178",
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
+          "datasheet_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf",
+          "source_title": "Oticon Reveal miniRITE R – Technische Daten",
+          "source_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf",
           "features": [
-            "Reveal AI Plattform mit Dual AI: Speech AI + Context AI",
+            "Reveal AI Plattform",
+            "Dual AI: Speech AI + Context AI",
+            "Umgebungsanalyse: 3 Einstellungen",
+            "AI Voice Clarifier",
+            "AI Noise Suppression: 8 dB komplex / 2 dB einfach",
+            "Wind & Handling Stabilizer",
             "Reveal Optimizer",
-            "AI Clarifier",
-            "4D-Sensortechnologie zur Erkennung von Nutzerintentionen",
-            "Wind & Handling Stabilizer 2.0 – Dämpfung bis zu 40 dB",
-            "verbesserte Streaming-Stabilität und -Reichweite via Bluetooth Low Energy",
+            "Spatial Sound: 4 Frequenzbänder",
+            "Better-Ear Priority",
+            "Übertragungs-Bandbreite: 8 kHz",
+            "48 Frequenzkanäle / 18 Anpass-Kanäle",
+            "Bluetooth LE Audio",
+            "Auracast",
+            "Freihändig kommunizieren",
             "Oticon Companion",
-            "IP68",
-            "Stärke: Sprache klar hervorheben und gleichzeitig Kontext/Umgebung erhalten"
+            "TV Adapter 3.0",
+            "Akku: erwartete Betriebszeit 24 h"
           ],
           "comparison": {
-            "n": "Oticon Reveal",
-            "p": "Dual AI / BrainHearing",
-            "no": 2,
-            "na": 2,
-            "au": 2,
+            "n": "Oticon Reveal 3",
+            "p": "Reveal AI / Dual AI",
+            "no": 1,
+            "na": 1,
+            "au": 1,
             "co": 5,
-            "ai": "Dual AI (Speech AI + Context AI), Reveal Optimizer, AI Clarifier, 4D-Sensorik, Wind & Handling Stabilizer 2.0",
-            "bt": "Bluetooth Low Energy; direktes Streaming zu kompatiblen iOS-/Android-Geräten",
-            "ac": "Keine bestätigte Auracast-Angabe",
-            "hf": "Freisprechen/Telefonie abhängig vom kompatiblen Endgerät",
-            "ba": "Akku; 1 h Laden für einen ganzen Tag, 15 min für bis zu 4 h",
+            "ai": "Dual AI (Speech AI + Context AI), AI Voice Clarifier, AI Noise Suppression 8/2 dB, Reveal Optimizer, Wind & Handling Stabilizer",
+            "bt": "Bluetooth LE Audio + Bluetooth Low Energy",
+            "ac": "Ja – Auracast",
+            "hf": "Ja, mit kompatiblen Geräten",
+            "ba": "Li-Ion Akku · erwartete Betriebszeit 24 h; 15 min Schnellladen bis zu 4 h",
             "ap": "Oticon Companion",
-            "tv": "Oticon TV Adapter / kompatibles Zubehör",
-            "st": "Dual AI mit Kontext- und Sprachfokus; Wind-/Handlinggeräuschreduktion bis 40 dB",
+            "tv": "TV Adapter 3.0 / Auracast",
+            "st": "60 % AI-Clarifier-Stärke und 3-stufige Umgebungsanalyse",
             "ip": "IP68"
-          }
+          },
+          "acoustic_note": "Herstellerdaten aus der technischen Produktinformation Oticon Reveal miniRITE R. Maximalverstärkung nach Ohrsimulator, abhängig vom miniFit Detect-Hörer.",
+          "acoustic_rows": [
+            {
+              "variant": "60-Hörer",
+              "max_gain": "44 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "85-Hörer",
+              "max_gain": "66 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "100-Hörer",
+              "max_gain": "69 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "105-Hörer",
+              "max_gain": "72 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            }
+          ],
+          "fitting_range_note": "Verifizierte Hersteller-Anpassbereiche im Reveal-Datenblatt.",
+          "fitting_range_status": "Verifizierte Hersteller-Fitting-Range verfügbar",
+          "fitting_range_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true
         }
       },
       {
@@ -154,43 +290,85 @@
           "name": "Reveal 4"
         },
         "technical_data": {
-          "status": "Herstellerdaten am 23.09.2026 gegen aktuelle offizielle Produkt-/Supportunterlagen geprüft",
+          "status": "Verifiziertes Hersteller-Datenblatt – deutsche technische Produktinformation Reveal miniRITE R, geprüft 23.09.2026",
           "verified_date": "23.09.2026",
           "link_verified_date": "23.09.2026",
           "product_locale": "de-DE",
           "product_url": "https://www.oticon.de/products/951178",
-          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R",
-          "datasheet_url": "https://www.oticon.de/professionals/resource-center",
-          "source_title": "Technische Produktinformation Oticon Reveal miniRITE R",
-          "source_url": "https://www.oticon.de/products/951178",
+          "datasheet_label": "Technische Produktinformation Oticon Reveal miniRITE R – German (Germany)",
+          "datasheet_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf",
+          "source_title": "Oticon Reveal miniRITE R – Technische Daten",
+          "source_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf",
           "features": [
-            "Reveal AI Plattform mit Dual AI: Speech AI + Context AI",
+            "Reveal AI Plattform",
+            "Dual AI: Speech AI + Context AI",
+            "Umgebungsanalyse: 1 Einstellung",
+            "AI Voice Clarifier",
+            "AI Noise Suppression: 6 dB komplex / 0 dB einfach",
+            "Wind & Handling Stabilizer",
             "Reveal Optimizer",
-            "AI Clarifier",
-            "4D-Sensortechnologie zur Erkennung von Nutzerintentionen",
-            "Wind & Handling Stabilizer 2.0 – Dämpfung bis zu 40 dB",
-            "verbesserte Streaming-Stabilität und -Reichweite via Bluetooth Low Energy",
+            "Übertragungs-Bandbreite: 8 kHz",
+            "48 Frequenzkanäle / 14 Anpass-Kanäle",
+            "Bluetooth LE Audio",
+            "Auracast",
+            "Freihändig kommunizieren",
             "Oticon Companion",
-            "IP68",
-            "Stärke: Sprache klar hervorheben und gleichzeitig Kontext/Umgebung erhalten"
+            "TV Adapter 3.0",
+            "Akku: erwartete Betriebszeit 24 h"
           ],
           "comparison": {
-            "n": "Oticon Reveal",
-            "p": "Dual AI / BrainHearing",
-            "no": 2,
-            "na": 2,
-            "au": 2,
+            "n": "Oticon Reveal 4",
+            "p": "Reveal AI / Dual AI",
+            "no": 0,
+            "na": 0,
+            "au": 0,
             "co": 5,
-            "ai": "Dual AI (Speech AI + Context AI), Reveal Optimizer, AI Clarifier, 4D-Sensorik, Wind & Handling Stabilizer 2.0",
-            "bt": "Bluetooth Low Energy; direktes Streaming zu kompatiblen iOS-/Android-Geräten",
-            "ac": "Keine bestätigte Auracast-Angabe",
-            "hf": "Freisprechen/Telefonie abhängig vom kompatiblen Endgerät",
-            "ba": "Akku; 1 h Laden für einen ganzen Tag, 15 min für bis zu 4 h",
+            "ai": "Dual AI (Speech AI + Context AI), AI Voice Clarifier, AI Noise Suppression 6/0 dB, Reveal Optimizer, Wind & Handling Stabilizer",
+            "bt": "Bluetooth LE Audio + Bluetooth Low Energy",
+            "ac": "Ja – Auracast",
+            "hf": "Ja, mit kompatiblen Geräten",
+            "ba": "Li-Ion Akku · erwartete Betriebszeit 24 h; 15 min Schnellladen bis zu 4 h",
             "ap": "Oticon Companion",
-            "tv": "Oticon TV Adapter / kompatibles Zubehör",
-            "st": "Dual AI mit Kontext- und Sprachfokus; Wind-/Handlinggeräuschreduktion bis 40 dB",
+            "tv": "TV Adapter 3.0 / Auracast",
+            "st": "40 % AI-Clarifier-Stärke und 1-stufige Umgebungsanalyse",
             "ip": "IP68"
-          }
+          },
+          "acoustic_note": "Herstellerdaten aus der technischen Produktinformation Oticon Reveal miniRITE R. Maximalverstärkung nach Ohrsimulator, abhängig vom miniFit Detect-Hörer.",
+          "acoustic_rows": [
+            {
+              "variant": "60-Hörer",
+              "max_gain": "44 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "85-Hörer",
+              "max_gain": "66 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "100-Hörer",
+              "max_gain": "69 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            },
+            {
+              "variant": "105-Hörer",
+              "max_gain": "72 dB",
+              "frequency": "<100–7500 Hz",
+              "basis": "Ohrsimulator – maximale Verstärkung, Spitzenwert"
+            }
+          ],
+          "fitting_range_note": "Verifizierte Hersteller-Anpassbereiche im Reveal-Datenblatt.",
+          "fitting_range_status": "Verifizierte Hersteller-Fitting-Range verfügbar",
+          "fitting_range_url": "https://damcdn.demant.com/d626af2e-4f42-452d-8191-b45600fef810/300961DE_TD_OT_Reveal_MNR_R_26_2_Original%20file.pdf"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true
         }
       },
       {
@@ -3137,6 +3315,306 @@
             "ap": "Audio Service App",
             "tv": "TV Sound / Zubehör",
             "st": "Sprachverstehen mit automatischer Optimierung mehrerer Gesprächspartner in anspruchsvollen Hörsituationen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_079",
+          "manufacturer": "GN ReSound",
+          "name": "Savi 4 CIC"
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false
+        },
+        "technical_data": {
+          "status": "ReSound Savi Pro-Datenblatt/Produktseite geprüft 23.09.2026",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "en-US Pro",
+          "product_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "datasheet_label": "ReSound Savi CIC – Pro-Datenblatt",
+          "datasheet_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "source_title": "ReSound Savi CIC – Non-wireless",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "features": [
+            "ReSound Savi Custom CIC",
+            "Batterie 10A",
+            "Non-wireless – keine Bluetooth-Audioverbindung",
+            "Kein Auracast",
+            "Keine Hands-free Calls",
+            "Stärke: sehr diskrete CIC-Bauform mit natürlichem Savi-Klang"
+          ],
+          "comparison": {
+            "n": "ReSound Savi CIC",
+            "p": "Savi",
+            "no": 0,
+            "na": 1,
+            "au": 0,
+            "co": 1,
+            "ai": "ReSound Savi – intelligente Sprach-/Klangverarbeitung",
+            "bt": "Nein – Non-wireless",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "10A Batterie",
+            "ap": "Keine direkte Wireless-App-Verbindung",
+            "tv": "Kein direktes Wireless-TV-Streaming",
+            "st": "Sehr diskrete CIC-Bauform; bewusst ohne Wireless-Funktionen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_080",
+          "manufacturer": "GN ReSound",
+          "name": "Savi 4 W ITC"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true
+        },
+        "technical_data": {
+          "status": "ReSound Savi Pro-Datenblatt/Produktseite geprüft 23.09.2026",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "en-US Pro",
+          "product_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "datasheet_label": "ReSound Savi ITC – Pro-Datenblatt",
+          "datasheet_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "source_title": "ReSound Savi ITC – Auracast Assistant & Bluetooth LE Audio",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "features": [
+            "ReSound Savi Custom ITC",
+            "Batterie 312",
+            "Bluetooth LE Audio",
+            "Auracast Assistant",
+            "ReSound Smart 3D",
+            "Direktes Audio-Streaming bei kompatiblen Geräten",
+            "Keine Hands-free Calls bei Savi ITC",
+            "Stärke: kompakte Custom-Bauform mit moderner LE-Audio-Konnektivität"
+          ],
+          "comparison": {
+            "n": "ReSound Savi ITC",
+            "p": "Savi",
+            "no": 0,
+            "na": 1,
+            "au": 0,
+            "co": 5,
+            "ai": "ReSound Savi – intelligente Sprach-/Klangverarbeitung",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Ja – Auracast Assistant",
+            "hf": "Nein – bei Savi ITC nicht verfügbar",
+            "ba": "312 Batterie",
+            "ap": "ReSound Smart 3D",
+            "tv": "Auracast / kompatibles ReSound Zubehör",
+            "st": "Diskrete Custom-Bauform mit Bluetooth LE Audio und Auracast",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_085",
+          "manufacturer": "GN ReSound",
+          "name": "Savi 2 CIC"
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false
+        },
+        "technical_data": {
+          "status": "ReSound Savi Pro-Datenblatt/Produktseite geprüft 23.09.2026",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "en-US Pro",
+          "product_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "datasheet_label": "ReSound Savi CIC – Pro-Datenblatt",
+          "datasheet_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "source_title": "ReSound Savi CIC – Non-wireless",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "features": [
+            "ReSound Savi Custom CIC",
+            "Batterie 10A",
+            "Non-wireless – keine Bluetooth-Audioverbindung",
+            "Kein Auracast",
+            "Keine Hands-free Calls",
+            "Stärke: sehr diskrete CIC-Bauform mit natürlichem Savi-Klang"
+          ],
+          "comparison": {
+            "n": "ReSound Savi CIC",
+            "p": "Savi",
+            "no": 0,
+            "na": 1,
+            "au": 0,
+            "co": 1,
+            "ai": "ReSound Savi – intelligente Sprach-/Klangverarbeitung",
+            "bt": "Nein – Non-wireless",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "10A Batterie",
+            "ap": "Keine direkte Wireless-App-Verbindung",
+            "tv": "Kein direktes Wireless-TV-Streaming",
+            "st": "Sehr diskrete CIC-Bauform; bewusst ohne Wireless-Funktionen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_086",
+          "manufacturer": "GN ReSound",
+          "name": "Savi 2 W ITC"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true
+        },
+        "technical_data": {
+          "status": "ReSound Savi Pro-Datenblatt/Produktseite geprüft 23.09.2026",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "en-US Pro",
+          "product_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "datasheet_label": "ReSound Savi ITC – Pro-Datenblatt",
+          "datasheet_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "source_title": "ReSound Savi ITC – Auracast Assistant & Bluetooth LE Audio",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "features": [
+            "ReSound Savi Custom ITC",
+            "Batterie 312",
+            "Bluetooth LE Audio",
+            "Auracast Assistant",
+            "ReSound Smart 3D",
+            "Direktes Audio-Streaming bei kompatiblen Geräten",
+            "Keine Hands-free Calls bei Savi ITC",
+            "Stärke: kompakte Custom-Bauform mit moderner LE-Audio-Konnektivität"
+          ],
+          "comparison": {
+            "n": "ReSound Savi ITC",
+            "p": "Savi",
+            "no": 0,
+            "na": 1,
+            "au": 0,
+            "co": 5,
+            "ai": "ReSound Savi – intelligente Sprach-/Klangverarbeitung",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Ja – Auracast Assistant",
+            "hf": "Nein – bei Savi ITC nicht verfügbar",
+            "ba": "312 Batterie",
+            "ap": "ReSound Smart 3D",
+            "tv": "Auracast / kompatibles ReSound Zubehör",
+            "st": "Diskrete Custom-Bauform mit Bluetooth LE Audio und Auracast",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_087",
+          "manufacturer": "GN ReSound",
+          "name": "Savi 3 CIC"
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false
+        },
+        "technical_data": {
+          "status": "ReSound Savi Pro-Datenblatt/Produktseite geprüft 23.09.2026",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "en-US Pro",
+          "product_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "datasheet_label": "ReSound Savi CIC – Pro-Datenblatt",
+          "datasheet_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "source_title": "ReSound Savi CIC – Non-wireless",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "features": [
+            "ReSound Savi Custom CIC",
+            "Batterie 10A",
+            "Non-wireless – keine Bluetooth-Audioverbindung",
+            "Kein Auracast",
+            "Keine Hands-free Calls",
+            "Stärke: sehr diskrete CIC-Bauform mit natürlichem Savi-Klang"
+          ],
+          "comparison": {
+            "n": "ReSound Savi CIC",
+            "p": "Savi",
+            "no": 0,
+            "na": 1,
+            "au": 0,
+            "co": 1,
+            "ai": "ReSound Savi – intelligente Sprach-/Klangverarbeitung",
+            "bt": "Nein – Non-wireless",
+            "ac": "Nein",
+            "hf": "Nein",
+            "ba": "10A Batterie",
+            "ap": "Keine direkte Wireless-App-Verbindung",
+            "tv": "Kein direktes Wireless-TV-Streaming",
+            "st": "Sehr diskrete CIC-Bauform; bewusst ohne Wireless-Funktionen",
+            "ip": "modellabhängig"
+          }
+        }
+      },
+      {
+        "match": {
+          "id": "price_088",
+          "manufacturer": "GN ReSound",
+          "name": "Savi 3 W ITC"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true
+        },
+        "technical_data": {
+          "status": "ReSound Savi Pro-Datenblatt/Produktseite geprüft 23.09.2026",
+          "verified_date": "23.09.2026",
+          "link_verified_date": "23.09.2026",
+          "product_locale": "en-US Pro",
+          "product_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "datasheet_label": "ReSound Savi ITC – Pro-Datenblatt",
+          "datasheet_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "source_title": "ReSound Savi ITC – Auracast Assistant & Bluetooth LE Audio",
+          "source_url": "https://pro.resound.com/en-us/products/hearing-aids/savi",
+          "features": [
+            "ReSound Savi Custom ITC",
+            "Batterie 312",
+            "Bluetooth LE Audio",
+            "Auracast Assistant",
+            "ReSound Smart 3D",
+            "Direktes Audio-Streaming bei kompatiblen Geräten",
+            "Keine Hands-free Calls bei Savi ITC",
+            "Stärke: kompakte Custom-Bauform mit moderner LE-Audio-Konnektivität"
+          ],
+          "comparison": {
+            "n": "ReSound Savi ITC",
+            "p": "Savi",
+            "no": 0,
+            "na": 1,
+            "au": 0,
+            "co": 5,
+            "ai": "ReSound Savi – intelligente Sprach-/Klangverarbeitung",
+            "bt": "Bluetooth LE Audio",
+            "ac": "Ja – Auracast Assistant",
+            "hf": "Nein – bei Savi ITC nicht verfügbar",
+            "ba": "312 Batterie",
+            "ap": "ReSound Smart 3D",
+            "tv": "Auracast / kompatibles ReSound Zubehör",
+            "st": "Diskrete Custom-Bauform mit Bluetooth LE Audio und Auracast",
             "ip": "modellabhängig"
           }
         }
