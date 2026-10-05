@@ -1,13 +1,13 @@
 {
   "format": "AUMI_MANUFACTURER_FEED_V1",
-  "revision": "2026-10-05.2",
-  "published_at": "2026-10-05T14:40:00+02:00",
-  "title": "Aumi Herstellerdaten – Audio Service R S BT 7.3 Link-Fix 05.10.2026",
-  "note": "Korrektur für Audio Service R S BT 7.3: technisches Datenblatt und Original-Fitting-Range verweisen jetzt auf die stabile offizielle Audio-Service-Datasheet-URL. Aumann-VK, Produktbild, Ex-Hörer und sonstige Stammdaten bleiben unverändert.",
+  "revision": "2026-10-05.3",
+  "published_at": "2026-10-05T14:55:00+02:00",
+  "title": "Aumi Herstellerdaten – Audio Service R S BT 7.3 PDF-Link Fix",
+  "note": "Korrektur R S BT 7.3: alle Datenblatt- und Fitting-Range-Verweise verwenden nun die stabile offizielle Audio-Service-PDF-URL; der nicht zuverlässig im Browser auflösbare /datasheet/v2/... Link wurde vollständig entfernt.",
   "payload": {
     "format": "AUMI_PRODUCT_UPDATE_V1",
-    "created_at": "2026-10-05T14:40:00+02:00",
-    "note": "Audio Service R S BT 7.3 – Datenblatt-/Fitting-Range-Link korrigiert; technische Features bleiben erhalten.",
+    "created_at": "2026-10-05T14:55:00+02:00",
+    "note": "R S BT 7.3 – stabile offizielle PDF-URL für Datenblatt/Fitting Range erzwungen; Preise, Bilder und Aumann-Stammdaten unverändert.",
     "products": [
       {
         "match": {
@@ -3626,15 +3626,15 @@
           "name": "R S BT 7.3"
         },
         "technical_data": {
-          "status": "Herstellerdaten am 05.10.2026 erneut geprüft; Datenblatt-Link auf stabile offizielle Audio-Service-Datasheet-URL korrigiert",
+          "status": "Herstellerdaten am 05.10.2026 erneut geprüft; alle Datenblatt-/Fitting-Range-Verweise auf stabile offizielle PDF-URL korrigiert",
           "verified_date": "05.10.2026",
           "link_verified_date": "05.10.2026",
           "product_locale": "de-DE",
           "product_url": "https://www.audioservice.com/de/hoergeraete/ric-hoergeraete/r-s-7/",
-          "datasheet_label": "Audio Service R S 7 / R S BT 7.3 – Technische Daten",
+          "datasheet_label": "Audio Service R S 7 / R S BT 7.3 – offizielles PDF-Datenblatt",
           "datasheet_url": "https://damcdn.audioservice.com/datasheet/9388ce20-9bac-412b-94b9-07793f44c10b",
-          "source_title": "Audio Service R S 7 / R S BT 7.3 – offizielle Produktseite, Produktkatalog und technisches Datenblatt",
-          "source_url": "https://www.audioservice.com/de/hoergeraete/ric-hoergeraete/r-s-7/",
+          "source_title": "Audio Service R S 7 / R S BT 7.3 – offizielles PDF-Datenblatt",
+          "source_url": "https://damcdn.audioservice.com/datasheet/9388ce20-9bac-412b-94b9-07793f44c10b",
           "features": [
             "G7-Plattform / Tech Level 3",
             "Multi-Track Processing 2",
