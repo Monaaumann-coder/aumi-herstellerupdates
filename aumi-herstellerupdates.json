@@ -1,13 +1,13 @@
 {
   "format": "AUMI_MANUFACTURER_FEED_V1",
-  "revision": "2026-09-23.2",
-  "published_at": "2026-09-23T14:35:00+02:00",
-  "title": "Aumi Herstellerdaten – Datenblätter & Vergleich 23.09.2026",
-  "note": "Aktualisierung nach erneuter Herstellerprüfung: Oticon Reveal erhält die inzwischen veröffentlichte deutsche technische Produktinformation mit leistungsstufenspezifischen Features und vollständigen Vergleichsfeldern. ReSound Savi CIC wird gemäß aktuellem Pro-Datenblatt als non-wireless geführt; Savi ITC bleibt Bluetooth LE Audio/Auracast-fähig. Widex Allure/Allure AI RIC, Beltone Illuminate, ReSound Sensia und Audio Service G8 wurden erneut gegen aktuelle Herstellerquellen geprüft. Aumann-VKs, Aktionen, Bilder, Ex-Hörer, Zubehör und sonstige Stammdaten bleiben unverändert.",
+  "revision": "2026-10-05.1",
+  "published_at": "2026-10-05T14:25:00+02:00",
+  "title": "Aumi Herstellerdaten – Audio Service R S BT 7.3 ergänzt",
+  "note": "Audio Service R S BT 7.3 gegen aktuelle offizielle Audio-Service-Produktseite, Produktkatalog und technisches Datenblatt geprüft und ergänzt. Aumann-VK, Produktbild, Ex-Hörer, Zubehör und sonstige lokale Stammdaten bleiben unverändert.",
   "payload": {
     "format": "AUMI_PRODUCT_UPDATE_V1",
-    "created_at": "2026-09-23T14:35:00+02:00",
-    "note": "Herstellerprüfung 23.09.2026 – Reveal-Datenblatt vollständig ergänzt; Savi CIC/ITC-Konnektivität korrigiert; Vergleichsprofile aktualisiert.",
+    "created_at": "2026-10-05T14:25:00+02:00",
+    "note": "Herstellerprüfung 05.10.2026 – Audio Service R S BT 7.3 ergänzt; bestehende Herstellerdaten bleiben erhalten.",
     "products": [
       {
         "match": {
@@ -3617,6 +3617,95 @@
             "st": "Diskrete Custom-Bauform mit Bluetooth LE Audio und Auracast",
             "ip": "modellabhängig"
           }
+        }
+      },
+      {
+        "match": {
+          "id": "p1791202813227",
+          "manufacturer": "Audio Service",
+          "name": "R S BT 7.3"
+        },
+        "technical_data": {
+          "status": "Herstellerdaten am 05.10.2026 gegen aktuelle offizielle Audio-Service-Unterlagen geprüft",
+          "verified_date": "05.10.2026",
+          "link_verified_date": "05.10.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.audioservice.com/de/hoergeraete/ric-hoergeraete/r-s-7/",
+          "datasheet_label": "Audio Service R S BT 7.3 – Technische Daten",
+          "datasheet_url": "https://damcdn.audioservice.com/datasheet/v2/d467fca8-e9d1-4fab-b3ce-c9e9c970c4ce?file=failovermultiple%3Alatest",
+          "source_title": "Audio Service R S BT 7.3 – Produktseite, Produktkatalog und technisches Datenblatt",
+          "source_url": "https://www.audioservice.com/de/hoergeraete/ric-hoergeraete/r-s-7/",
+          "features": [
+            "G7-Plattform / Tech Level 3",
+            "Multi-Track Processing 2",
+            "HiRes Comformatic 2.0",
+            "12 Kanäle / 6 Regler / 4 Programme",
+            "First Fit mit 48 Kanälen",
+            "Direktes Audiostreaming: Made for iPhone und Android (ASHA)",
+            "Auto Volume",
+            "Binaurale Synchronisation",
+            "Automatische Direktionalität + statisch direktional",
+            "Noise Management",
+            "Selektive Frequenzkompression",
+            "Data Logging",
+            "Integrierter Bewegungssensor",
+            "Batterie 312",
+            "IP68",
+            "miniReceiver 3.0; S-, M-, P- und HP-Hörer laut Herstellerunterlagen"
+          ],
+          "comparison": {
+            "n": "Audio Service R S BT 7.3",
+            "p": "G7 / Tech Level 3",
+            "no": 1,
+            "na": 0,
+            "au": 1,
+            "co": 4,
+            "ai": "Multi-Track Processing 2, HiRes Comformatic 2.0 und integrierter Bewegungssensor",
+            "bt": "Direktes Audiostreaming: Made for iPhone + Android (ASHA)",
+            "ac": "Kein Auracast / Bluetooth LE Audio als Produktmerkmal ausgewiesen",
+            "hf": "Headset-Modus für Tech Level 3 nicht als eigenes Merkmal ausgewiesen",
+            "ba": "Batterie 312; Laufzeit abhängig von Hörer und Streaming",
+            "ap": "Audio Service App",
+            "tv": "TV Sound / kompatibles Audio-Service-Zubehör",
+            "st": "12 Kanäle / 6 Regler / 4 Programme; automatische/statische Direktionalität; Noise Management",
+            "ip": "IP68"
+          },
+          "acoustic_note": "Offizielle Audio-Service-Messwerte für R S BT 7.3; Werte abhängig vom verwendeten miniReceiver.",
+          "acoustic_rows": [
+            {
+              "variant": "S-Hörer",
+              "max_gain": "46 dB",
+              "frequency": "100–8200 Hz",
+              "basis": "2cc – FOG Peak; OSPL Peak 109 dB"
+            },
+            {
+              "variant": "M-Hörer",
+              "max_gain": "58 dB",
+              "frequency": "100–8200 Hz",
+              "basis": "2cc – FOG Peak; OSPL Peak 117 dB"
+            },
+            {
+              "variant": "P-Hörer",
+              "max_gain": "63 dB",
+              "frequency": "100–7400 Hz",
+              "basis": "2cc – FOG Peak; OSPL Peak 120 dB"
+            },
+            {
+              "variant": "HP-Hörer",
+              "max_gain": "74 dB",
+              "frequency": "100–7700 Hz",
+              "basis": "2cc – FOG Peak; OSPL Peak 128 dB"
+            }
+          ],
+          "fitting_range_note": "Die Anpassbereiche werden aus der offiziellen Audio-Service-Unterlage geöffnet; Aumi zeichnet keine geschätzte Kurve.",
+          "fitting_range_status": "Verifizierte Hersteller-Fitting-Range verfügbar",
+          "fitting_range_url": "https://damcdn.audioservice.com/datasheet/v2/d467fca8-e9d1-4fab-b3ce-c9e9c970c4ce?file=failovermultiple%3Alatest"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true
         }
       }
     ]
