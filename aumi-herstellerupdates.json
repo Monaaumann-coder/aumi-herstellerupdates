@@ -1,13 +1,13 @@
 {
   "format": "AUMI_MANUFACTURER_FEED_V1",
-  "revision": "2026-10-05.4",
-  "published_at": "2026-10-05T15:05:00+02:00",
-  "title": "Aumi Herstellerdaten – Audio Service R S BT 7.3 Browser-Link Fix",
-  "note": "R S BT 7.3: Datenblatt- und Fitting-Range-Link auf den offiziellen Audio-Service-Produktkatalog April 2026 umgestellt. Hintergrund: direkte damcdn-Datasheet-URLs liefern in normalen Browsern teils 'Page not found'. Aumann-VK, Produktbild, Ex-Hörer und sonstige Stammdaten bleiben unverändert.",
+  "revision": "2026-10-08.1",
+  "published_at": "2026-10-08T15:31:00+02:00",
+  "title": "Aumi Herstellerdaten – GN ReSound ENZO Core 4/3/2",
+  "note": "Neu: GN ReSound ENZO Core 4, ENZO Core 3 und ENZO Core 2 mit aktuellen Features, HMV-Zuordnung, Bluetooth/MFi/ASHA, 675er Batterie sowie offiziellem GN-Datenblatt-Link. Preise und lokale Aumann-Einstufungen bleiben unverändert.",
   "payload": {
     "format": "AUMI_PRODUCT_UPDATE_V1",
-    "created_at": "2026-10-05T15:05:00+02:00",
-    "note": "R S BT 7.3 – browserfähiger offizieller Audio-Service-Kataloglink für Datenblatt/Fitting Range.",
+    "created_at": "2026-10-08T15:31:00+02:00",
+    "note": "GN ReSound ENZO Core 4/3/2 – aktuelle Hersteller- und Registerdaten ergänzt; lokale VK/Leistungsklassen werden nicht überschrieben.",
     "products": [
       {
         "match": {
@@ -3706,6 +3706,213 @@
           "iphone": true,
           "android": true,
           "tv": true
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "GN ReSound",
+          "name": "ENZO Core 4"
+        },
+        "technical_data": {
+          "status": "Aktuelle Hersteller-/Registerdaten für ReSound Enzo Core 4 (EC498-DW) geprüft am 08.10.2026",
+          "verified_date": "08.10.2026",
+          "link_verified_date": "08.10.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.gnhearing.com/de-de/products/hearing-aids",
+          "datasheet_label": "ReSound Enzo Core – offizielles GN Datenblatt",
+          "datasheet_url": "https://www.gnhearing.com/de-de/products/support-materials",
+          "source_title": "ReSound Enzo Core 4 EC498-DW – GN Datenblatt / GKV-Hilfsmittelverzeichnis",
+          "source_url": "https://www.gnhearing.com/de-de/products/support-materials",
+          "features": [
+            "ReSound Enzo Core 4 – Super-Power-HdO",
+            "Modellkennung: EC498-DW",
+            "HMV-Positionsnummer: 13.20.10.1342",
+            "675er Batterie",
+            "12 Anpasskanäle",
+            "Frequenzmodifikation vorhanden",
+            "Telefonspule vorhanden",
+            "DataLogging vorhanden",
+            "Programmwechsel und/oder Lautstärkesteller am Gerät",
+            "Windgeräuschunterdrückung vorhanden",
+            "Impulsschallunterdrückung vorhanden",
+            "Bluetooth Audio / Wireless vorhanden",
+            "Direktes Streaming: Made for iPhone (MFi) und Android Streaming for Hearing Aids (ASHA)",
+            "Max. Ausgangsschalldruck: 130 dB SPL (2cc)",
+            "Max. Verstärkung: 67 dB (2cc)",
+            "Stärkste Enzo-Core-Stufe; zusätzlich Impulsschallunterdrückung laut HMV-Eintrag"
+          ],
+          "comparison": {
+            "n": "GN ReSound ENZO Core 4",
+            "p": "Enzo Core / Super Power",
+            "co": 4,
+            "ai": "Klassische ReSound Signalverarbeitung; keine KI-/DNN-Funktion als Produktmerkmal ausgewiesen",
+            "bt": "Wireless / Bluetooth Audio · MFi + ASHA",
+            "ac": "Kein Auracast als Produktmerkmal ausgewiesen",
+            "hf": "Freisprechen nicht als eigenes Produktmerkmal ausgewiesen",
+            "ba": "675er Batterie",
+            "ap": "ReSound Smart 3D / ReSound Assist bei kompatibler Konfiguration",
+            "tv": "ReSound Wireless-Zubehör / kompatibles TV-Streaming",
+            "st": "12 Anpasskanäle · Super-Power · Telefonspule · Windgeräuschunterdrückung · Impulsschallunterdrückung",
+            "ip": "laut Herstellerdatenblatt"
+          },
+          "acoustic_note": "Für Enzo Core 4/3/2 sind in der Schweizer Hörgeräteliste 130 dB SPL maximaler Ausgangsschalldruck und 67 dB maximale Verstärkung (jeweils 2cc) ausgewiesen. Der konkrete Anpassbereich ist der offiziellen GN-Unterlage zu entnehmen.",
+          "acoustic_rows": [
+            {
+              "variant": "EC498-DW",
+              "max_gain": "67 dB",
+              "frequency": "Hersteller-Datenblatt",
+              "basis": "2cc · max. Ausgang 130 dB SPL"
+            }
+          ],
+          "fitting_range_note": "Der konkrete Hersteller-Anpassbereich ist im offiziellen ReSound Enzo Core Datenblatt hinterlegt.",
+          "fitting_range_status": "Offizielles Hersteller-Datenblatt verfügbar"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true,
+          "power": "Batterie",
+          "form": "HdO",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "GN ReSound",
+          "name": "ENZO Core 3"
+        },
+        "technical_data": {
+          "status": "Aktuelle Hersteller-/Registerdaten für ReSound Enzo Core 3 (EC398-DW) geprüft am 08.10.2026",
+          "verified_date": "08.10.2026",
+          "link_verified_date": "08.10.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.gnhearing.com/de-de/products/hearing-aids",
+          "datasheet_label": "ReSound Enzo Core – offizielles GN Datenblatt",
+          "datasheet_url": "https://www.gnhearing.com/de-de/products/support-materials",
+          "source_title": "ReSound Enzo Core 3 EC398-DW – GN Datenblatt / GKV-Hilfsmittelverzeichnis",
+          "source_url": "https://www.gnhearing.com/de-de/products/support-materials",
+          "features": [
+            "ReSound Enzo Core 3 – Super-Power-HdO",
+            "Modellkennung: EC398-DW",
+            "HMV-Positionsnummer: 13.20.10.1343",
+            "675er Batterie",
+            "12 Anpasskanäle",
+            "Frequenzmodifikation vorhanden",
+            "Telefonspule vorhanden",
+            "DataLogging vorhanden",
+            "Programmwechsel und/oder Lautstärkesteller am Gerät",
+            "Windgeräuschunterdrückung vorhanden",
+            "Impulsschallunterdrückung vorhanden",
+            "Bluetooth Audio / Wireless vorhanden",
+            "Direktes Streaming: Made for iPhone (MFi) und Android Streaming for Hearing Aids (ASHA)",
+            "Max. Ausgangsschalldruck: 130 dB SPL (2cc)",
+            "Max. Verstärkung: 67 dB (2cc)",
+            "Enzo-Core-Mittelstufe mit 12 Anpasskanälen und Impulsschallunterdrückung"
+          ],
+          "comparison": {
+            "n": "GN ReSound ENZO Core 3",
+            "p": "Enzo Core / Super Power",
+            "co": 4,
+            "ai": "Klassische ReSound Signalverarbeitung; keine KI-/DNN-Funktion als Produktmerkmal ausgewiesen",
+            "bt": "Wireless / Bluetooth Audio · MFi + ASHA",
+            "ac": "Kein Auracast als Produktmerkmal ausgewiesen",
+            "hf": "Freisprechen nicht als eigenes Produktmerkmal ausgewiesen",
+            "ba": "675er Batterie",
+            "ap": "ReSound Smart 3D / ReSound Assist bei kompatibler Konfiguration",
+            "tv": "ReSound Wireless-Zubehör / kompatibles TV-Streaming",
+            "st": "12 Anpasskanäle · Super-Power · Telefonspule · Windgeräuschunterdrückung · Impulsschallunterdrückung",
+            "ip": "laut Herstellerdatenblatt"
+          },
+          "acoustic_note": "Für Enzo Core 4/3/2 sind in der Schweizer Hörgeräteliste 130 dB SPL maximaler Ausgangsschalldruck und 67 dB maximale Verstärkung (jeweils 2cc) ausgewiesen. Der konkrete Anpassbereich ist der offiziellen GN-Unterlage zu entnehmen.",
+          "acoustic_rows": [
+            {
+              "variant": "EC398-DW",
+              "max_gain": "67 dB",
+              "frequency": "Hersteller-Datenblatt",
+              "basis": "2cc · max. Ausgang 130 dB SPL"
+            }
+          ],
+          "fitting_range_note": "Der konkrete Hersteller-Anpassbereich ist im offiziellen ReSound Enzo Core Datenblatt hinterlegt.",
+          "fitting_range_status": "Offizielles Hersteller-Datenblatt verfügbar"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true,
+          "power": "Batterie",
+          "form": "HdO",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "GN ReSound",
+          "name": "ENZO Core 2"
+        },
+        "technical_data": {
+          "status": "Aktuelle Hersteller-/Registerdaten für ReSound Enzo Core 2 (EC298-DW) geprüft am 08.10.2026",
+          "verified_date": "08.10.2026",
+          "link_verified_date": "08.10.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.gnhearing.com/de-de/products/hearing-aids",
+          "datasheet_label": "ReSound Enzo Core – offizielles GN Datenblatt",
+          "datasheet_url": "https://www.gnhearing.com/de-de/products/support-materials",
+          "source_title": "ReSound Enzo Core 2 EC298-DW – GN Datenblatt / GKV-Hilfsmittelverzeichnis",
+          "source_url": "https://www.gnhearing.com/de-de/products/support-materials",
+          "features": [
+            "ReSound Enzo Core 2 – Super-Power-HdO",
+            "Modellkennung: EC298-DW",
+            "HMV-Positionsnummer: 13.20.10.1344",
+            "675er Batterie",
+            "10 Anpasskanäle",
+            "Frequenzmodifikation vorhanden",
+            "Telefonspule vorhanden",
+            "DataLogging vorhanden",
+            "Programmwechsel und/oder Lautstärkesteller am Gerät",
+            "Windgeräuschunterdrückung vorhanden",
+            "Keine Impulsschallunterdrückung laut HMV-Eintrag",
+            "Bluetooth Audio / Wireless vorhanden",
+            "Direktes Streaming: Made for iPhone (MFi) und Android Streaming for Hearing Aids (ASHA)",
+            "Max. Ausgangsschalldruck: 130 dB SPL (2cc)",
+            "Max. Verstärkung: 67 dB (2cc)",
+            "Enzo-Core-Basisstufe mit 10 Anpasskanälen"
+          ],
+          "comparison": {
+            "n": "GN ReSound ENZO Core 2",
+            "p": "Enzo Core / Super Power",
+            "co": 4,
+            "ai": "Klassische ReSound Signalverarbeitung; keine KI-/DNN-Funktion als Produktmerkmal ausgewiesen",
+            "bt": "Wireless / Bluetooth Audio · MFi + ASHA",
+            "ac": "Kein Auracast als Produktmerkmal ausgewiesen",
+            "hf": "Freisprechen nicht als eigenes Produktmerkmal ausgewiesen",
+            "ba": "675er Batterie",
+            "ap": "ReSound Smart 3D / ReSound Assist bei kompatibler Konfiguration",
+            "tv": "ReSound Wireless-Zubehör / kompatibles TV-Streaming",
+            "st": "10 Anpasskanäle · Super-Power · Telefonspule · Windgeräuschunterdrückung",
+            "ip": "laut Herstellerdatenblatt"
+          },
+          "acoustic_note": "Für Enzo Core 4/3/2 sind in der Schweizer Hörgeräteliste 130 dB SPL maximaler Ausgangsschalldruck und 67 dB maximale Verstärkung (jeweils 2cc) ausgewiesen. Der konkrete Anpassbereich ist der offiziellen GN-Unterlage zu entnehmen.",
+          "acoustic_rows": [
+            {
+              "variant": "EC298-DW",
+              "max_gain": "67 dB",
+              "frequency": "Hersteller-Datenblatt",
+              "basis": "2cc · max. Ausgang 130 dB SPL"
+            }
+          ],
+          "fitting_range_note": "Der konkrete Hersteller-Anpassbereich ist im offiziellen ReSound Enzo Core Datenblatt hinterlegt.",
+          "fitting_range_status": "Offizielles Hersteller-Datenblatt verfügbar"
+        },
+        "product_updates": {
+          "bluetooth": true,
+          "iphone": true,
+          "android": true,
+          "tv": true,
+          "power": "Batterie",
+          "form": "HdO",
+          "charger": false
         }
       }
     ]
