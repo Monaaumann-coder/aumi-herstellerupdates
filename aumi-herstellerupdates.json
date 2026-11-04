@@ -1,13 +1,13 @@
 {
   "format": "AUMI_MANUFACTURER_FEED_V1",
-  "revision": "2026-10-08.1",
-  "published_at": "2026-10-08T15:31:00+02:00",
-  "title": "Aumi Herstellerdaten – GN ReSound ENZO Core 4/3/2",
-  "note": "Neu: GN ReSound ENZO Core 4, ENZO Core 3 und ENZO Core 2 mit aktuellen Features, HMV-Zuordnung, Bluetooth/MFi/ASHA, 675er Batterie sowie offiziellem GN-Datenblatt-Link. Preise und lokale Aumann-Einstufungen bleiben unverändert.",
+  "revision": "2026-11-04.1",
+  "published_at": "2026-11-04T14:17:00+01:00",
+  "title": "AUMI Herstellerdaten – Beltone Illuminate CIC, ReSound Sensia CIC, Oticon Own SI IIC/CIC",
+  "note": "12 neu aufgenommene Im-Ohr-Geräte: offizielle Herstellerfeatures, Batteriebetrieb, Bauformhinweise und Konnektivitätsgrenzen aktualisiert. Bestehende Aumann-VKs, Sterneklassen, Aktionen und Bilder bleiben unverändert. Alle anderen 79 Herstellerdaten-Einträge bleiben erhalten.",
   "payload": {
     "format": "AUMI_PRODUCT_UPDATE_V1",
-    "created_at": "2026-10-08T15:31:00+02:00",
-    "note": "GN ReSound ENZO Core 4/3/2 – aktuelle Hersteller- und Registerdaten ergänzt; lokale VK/Leistungsklassen werden nicht überschrieben.",
+    "created_at": "2026-11-04T14:17:00+01:00",
+    "note": "Herstellerdaten-Abgleich für 12 CIC/IIC-Modelle; keine Produktneuanlage und keine Änderung von Aumann-Preisen oder Leistungsklassen.",
     "products": [
       {
         "match": {
@@ -3912,6 +3912,442 @@
           "tv": true,
           "power": "Batterie",
           "form": "HdO",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "Beltone",
+          "name": "Illuminate 4, ILU4CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/de-de/hearing-aids/beltone-hearing-solutions/beltone-illuminate",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://www.beltone.com/de-de/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate CIC – Herstellerinformation",
+          "source_url": "https://www.beltone.com/de-de/hearing-aids/beltone-hearing-solutions/beltone-illuminate",
+          "features": [
+            "Maßgefertigtes, besonders diskretes CIC-Hörsystem (Completely-in-Canal).",
+            "Batteriegröße 10 (Zink-Luft); kein wiederaufladbares CIC.",
+            "GN-Hörtechnologie mit automatischer Hörumgebungsverarbeitung; konkrete Funktionen abhängig von Technikstufe und Bauform.",
+            "Digitale Störgeräusch- und Rückkopplungsunterdrückung; Ausprägung je Technikstufe.",
+            "IP68 – Schutz gegen Staub und Feuchtigkeit laut Hersteller.",
+            "CIC ohne Bluetooth LE Audio, Auracast oder direktes Smartphone-/TV-Streaming."
+          ],
+          "technical_scope_note": "Die Herstellerwerbung zu True 360, 4-Mikrofon-Richtwirkung, DNN, Auracast und 24h Akkulaufzeit beschreibt nicht automatisch die CIC-Bauform. Level-spezifische Funktionsumfänge hier nicht ohne separate CIC-Matrix zugesichert.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "Beltone",
+          "name": "Illuminate 6, ILU6CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/de-de/hearing-aids/beltone-hearing-solutions/beltone-illuminate",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://www.beltone.com/de-de/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate CIC – Herstellerinformation",
+          "source_url": "https://www.beltone.com/de-de/hearing-aids/beltone-hearing-solutions/beltone-illuminate",
+          "features": [
+            "Maßgefertigtes, besonders diskretes CIC-Hörsystem (Completely-in-Canal).",
+            "Batteriegröße 10 (Zink-Luft); kein wiederaufladbares CIC.",
+            "GN-Hörtechnologie mit automatischer Hörumgebungsverarbeitung; konkrete Funktionen abhängig von Technikstufe und Bauform.",
+            "Digitale Störgeräusch- und Rückkopplungsunterdrückung; Ausprägung je Technikstufe.",
+            "IP68 – Schutz gegen Staub und Feuchtigkeit laut Hersteller.",
+            "CIC ohne Bluetooth LE Audio, Auracast oder direktes Smartphone-/TV-Streaming."
+          ],
+          "technical_scope_note": "Die Herstellerwerbung zu True 360, 4-Mikrofon-Richtwirkung, DNN, Auracast und 24h Akkulaufzeit beschreibt nicht automatisch die CIC-Bauform. Level-spezifische Funktionsumfänge hier nicht ohne separate CIC-Matrix zugesichert.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "Beltone",
+          "name": "Illuminate 9, ILU9CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/de-de/hearing-aids/beltone-hearing-solutions/beltone-illuminate",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://www.beltone.com/de-de/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate CIC – Herstellerinformation",
+          "source_url": "https://www.beltone.com/de-de/hearing-aids/beltone-hearing-solutions/beltone-illuminate",
+          "features": [
+            "Maßgefertigtes, besonders diskretes CIC-Hörsystem (Completely-in-Canal).",
+            "Batteriegröße 10 (Zink-Luft); kein wiederaufladbares CIC.",
+            "GN-Hörtechnologie mit automatischer Hörumgebungsverarbeitung; konkrete Funktionen abhängig von Technikstufe und Bauform.",
+            "Digitale Störgeräusch- und Rückkopplungsunterdrückung; Ausprägung je Technikstufe.",
+            "IP68 – Schutz gegen Staub und Feuchtigkeit laut Hersteller.",
+            "CIC ohne Bluetooth LE Audio, Auracast oder direktes Smartphone-/TV-Streaming."
+          ],
+          "technical_scope_note": "Die Herstellerwerbung zu True 360, 4-Mikrofon-Richtwirkung, DNN, Auracast und 24h Akkulaufzeit beschreibt nicht automatisch die CIC-Bauform. Level-spezifische Funktionsumfänge hier nicht ohne separate CIC-Matrix zugesichert.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "Beltone",
+          "name": "Illuminate 17, ILU17CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.beltone.com/de-de/hearing-aids/beltone-hearing-solutions/beltone-illuminate",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://www.beltone.com/de-de/support/hearing-aids-support/beltone-illuminate-support",
+          "source_title": "Beltone Illuminate CIC – Herstellerinformation",
+          "source_url": "https://www.beltone.com/de-de/hearing-aids/beltone-hearing-solutions/beltone-illuminate",
+          "features": [
+            "Maßgefertigtes, besonders diskretes CIC-Hörsystem (Completely-in-Canal).",
+            "Batteriegröße 10 (Zink-Luft); kein wiederaufladbares CIC.",
+            "GN-Hörtechnologie mit automatischer Hörumgebungsverarbeitung; konkrete Funktionen abhängig von Technikstufe und Bauform.",
+            "Digitale Störgeräusch- und Rückkopplungsunterdrückung; Ausprägung je Technikstufe.",
+            "IP68 – Schutz gegen Staub und Feuchtigkeit laut Hersteller.",
+            "CIC ohne Bluetooth LE Audio, Auracast oder direktes Smartphone-/TV-Streaming."
+          ],
+          "technical_scope_note": "Die Herstellerwerbung zu True 360, 4-Mikrofon-Richtwirkung, DNN, Auracast und 24h Akkulaufzeit beschreibt nicht automatisch die CIC-Bauform. Level-spezifische Funktionsumfänge hier nicht ohne separate CIC-Matrix zugesichert.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 4 SN4CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia",
+          "source_title": "ReSound Sensia CIC – Herstellerinformation",
+          "source_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "features": [
+            "Maßgefertigtes CIC-Hörsystem (Completely-in-Canal) der Sensia-Familie.",
+            "CIC als nicht drahtloses Modell ausgewiesen – kein Bluetooth LE Audio, Auracast oder Direktstreaming.",
+            "Zink-Luft-Batterie der Größe 10 (CIC-Bauform; nicht wiederaufladbar).",
+            "Kompakte Im-Gehörgang-Bauform; Anpassung an die individuelle Ohranatomie.",
+            "Automatische Hörumgebungsverarbeitung und Störgeräuschmanagement abhängig von Modell und Technikstufe.",
+            "IP68 – staub- und feuchtigkeitsgeschützte Bauform."
+          ],
+          "technical_scope_note": "Intelligent All-Around, 4-Mikrofon-Beamforming und bestimmte DNN-Funktionen sind laut ReSound bauform-/technikstufenabhängig und nicht pauschal für das nicht-drahtlose CIC freigegeben. Insbesondere Intelligent Focus ist microRIE-spezifisch.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 5 SN5CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia",
+          "source_title": "ReSound Sensia CIC – Herstellerinformation",
+          "source_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "features": [
+            "Maßgefertigtes CIC-Hörsystem (Completely-in-Canal) der Sensia-Familie.",
+            "CIC als nicht drahtloses Modell ausgewiesen – kein Bluetooth LE Audio, Auracast oder Direktstreaming.",
+            "Zink-Luft-Batterie der Größe 10 (CIC-Bauform; nicht wiederaufladbar).",
+            "Kompakte Im-Gehörgang-Bauform; Anpassung an die individuelle Ohranatomie.",
+            "Automatische Hörumgebungsverarbeitung und Störgeräuschmanagement abhängig von Modell und Technikstufe.",
+            "IP68 – staub- und feuchtigkeitsgeschützte Bauform."
+          ],
+          "technical_scope_note": "Intelligent All-Around, 4-Mikrofon-Beamforming und bestimmte DNN-Funktionen sind laut ReSound bauform-/technikstufenabhängig und nicht pauschal für das nicht-drahtlose CIC freigegeben. Insbesondere Intelligent Focus ist microRIE-spezifisch.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 7 SN7CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia",
+          "source_title": "ReSound Sensia CIC – Herstellerinformation",
+          "source_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "features": [
+            "Maßgefertigtes CIC-Hörsystem (Completely-in-Canal) der Sensia-Familie.",
+            "CIC als nicht drahtloses Modell ausgewiesen – kein Bluetooth LE Audio, Auracast oder Direktstreaming.",
+            "Zink-Luft-Batterie der Größe 10 (CIC-Bauform; nicht wiederaufladbar).",
+            "Kompakte Im-Gehörgang-Bauform; Anpassung an die individuelle Ohranatomie.",
+            "Automatische Hörumgebungsverarbeitung und Störgeräuschmanagement abhängig von Modell und Technikstufe.",
+            "IP68 – staub- und feuchtigkeitsgeschützte Bauform."
+          ],
+          "technical_scope_note": "Intelligent All-Around, 4-Mikrofon-Beamforming und bestimmte DNN-Funktionen sind laut ReSound bauform-/technikstufenabhängig und nicht pauschal für das nicht-drahtlose CIC freigegeben. Insbesondere Intelligent Focus ist microRIE-spezifisch.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "GN ReSound",
+          "name": "Sensia 9 SN9CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://pro.resound.com/en-us/products/hearing-aids/sensia",
+          "source_title": "ReSound Sensia CIC – Herstellerinformation",
+          "source_url": "https://www.resound.com/de-de/hearing-aids/resound-hearing-aids/resound-sensia",
+          "features": [
+            "Maßgefertigtes CIC-Hörsystem (Completely-in-Canal) der Sensia-Familie.",
+            "CIC als nicht drahtloses Modell ausgewiesen – kein Bluetooth LE Audio, Auracast oder Direktstreaming.",
+            "Zink-Luft-Batterie der Größe 10 (CIC-Bauform; nicht wiederaufladbar).",
+            "Kompakte Im-Gehörgang-Bauform; Anpassung an die individuelle Ohranatomie.",
+            "Automatische Hörumgebungsverarbeitung und Störgeräuschmanagement abhängig von Modell und Technikstufe.",
+            "IP68 – staub- und feuchtigkeitsgeschützte Bauform."
+          ],
+          "technical_scope_note": "Intelligent All-Around, 4-Mikrofon-Beamforming und bestimmte DNN-Funktionen sind laut ReSound bauform-/technikstufenabhängig und nicht pauschal für das nicht-drahtlose CIC freigegeben. Insbesondere Intelligent Focus ist microRIE-spezifisch.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "Oticon",
+          "name": "Own SI 4 IIC/CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.oticon.de/products/721428/oticon-own-si-iic",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://www.oticon.de/products/721429/oticon-ownsi-cic",
+          "source_title": "Oticon Own SI IIC/CIC – Herstellerinformation",
+          "source_url": "https://www.oticon.de/products/721428/oticon-own-si-iic",
+          "features": [
+            "Individuell maßgefertigtes, besonders unauffälliges Im-Ohr-Hörsystem als IIC bzw. CIC.",
+            "Sirius-Plattform mit permanent aktiver Deep-Neural-Network-Technologie (DNN 2.0).",
+            "BrainHearing-Technologie für natürliche Wahrnehmung des Klangumfeldes.",
+            "SuddenSound Stabilizer für die Verarbeitung plötzlicher leiser und lauter Geräusche.",
+            "Zink-Luft-Batterie der Größe 10, nicht wiederaufladbar.",
+            "IP68 – Staub- und Feuchtigkeitsschutz.",
+            "Kein direktes Bluetooth-/Auracast-Streaming bei IIC/CIC; optionaler Taster und NFMI nur bei CIC-Ausstattung möglich."
+          ],
+          "technical_scope_note": "Der AUMI-Artikel fasst IIC/CIC zusammen: Taster, NFMI und Tinnitusfunktionen nicht pauschal für IIC oder alle CIC-Ausführungen zusichern. Funktionsumfang ist technikstufen-/ausstattungsabhängig.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "Oticon",
+          "name": "Own SI 3 IIC/CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.oticon.de/products/721428/oticon-own-si-iic",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://www.oticon.de/products/721429/oticon-ownsi-cic",
+          "source_title": "Oticon Own SI IIC/CIC – Herstellerinformation",
+          "source_url": "https://www.oticon.de/products/721428/oticon-own-si-iic",
+          "features": [
+            "Individuell maßgefertigtes, besonders unauffälliges Im-Ohr-Hörsystem als IIC bzw. CIC.",
+            "Sirius-Plattform mit permanent aktiver Deep-Neural-Network-Technologie (DNN 2.0).",
+            "BrainHearing-Technologie für natürliche Wahrnehmung des Klangumfeldes.",
+            "SuddenSound Stabilizer für die Verarbeitung plötzlicher leiser und lauter Geräusche.",
+            "Zink-Luft-Batterie der Größe 10, nicht wiederaufladbar.",
+            "IP68 – Staub- und Feuchtigkeitsschutz.",
+            "Kein direktes Bluetooth-/Auracast-Streaming bei IIC/CIC; optionaler Taster und NFMI nur bei CIC-Ausstattung möglich."
+          ],
+          "technical_scope_note": "Der AUMI-Artikel fasst IIC/CIC zusammen: Taster, NFMI und Tinnitusfunktionen nicht pauschal für IIC oder alle CIC-Ausführungen zusichern. Funktionsumfang ist technikstufen-/ausstattungsabhängig.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "Oticon",
+          "name": "Own SI 2 IIC/CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.oticon.de/products/721428/oticon-own-si-iic",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://www.oticon.de/products/721429/oticon-ownsi-cic",
+          "source_title": "Oticon Own SI IIC/CIC – Herstellerinformation",
+          "source_url": "https://www.oticon.de/products/721428/oticon-own-si-iic",
+          "features": [
+            "Individuell maßgefertigtes, besonders unauffälliges Im-Ohr-Hörsystem als IIC bzw. CIC.",
+            "Sirius-Plattform mit permanent aktiver Deep-Neural-Network-Technologie (DNN 2.0).",
+            "BrainHearing-Technologie für natürliche Wahrnehmung des Klangumfeldes.",
+            "SuddenSound Stabilizer für die Verarbeitung plötzlicher leiser und lauter Geräusche.",
+            "Zink-Luft-Batterie der Größe 10, nicht wiederaufladbar.",
+            "IP68 – Staub- und Feuchtigkeitsschutz.",
+            "Kein direktes Bluetooth-/Auracast-Streaming bei IIC/CIC; optionaler Taster und NFMI nur bei CIC-Ausstattung möglich."
+          ],
+          "technical_scope_note": "Der AUMI-Artikel fasst IIC/CIC zusammen: Taster, NFMI und Tinnitusfunktionen nicht pauschal für IIC oder alle CIC-Ausführungen zusichern. Funktionsumfang ist technikstufen-/ausstattungsabhängig.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
+          "charger": false
+        }
+      },
+      {
+        "match": {
+          "manufacturer": "Oticon",
+          "name": "Own SI 1 IIC/CIC"
+        },
+        "technical_data": {
+          "status": "Herstellerinformationen geprüft; CIC/IIC-spezifische Einschränkungen berücksichtigt",
+          "verified_date": "04.11.2026",
+          "link_verified_date": "04.11.2026",
+          "product_locale": "de-DE",
+          "product_url": "https://www.oticon.de/products/721428/oticon-own-si-iic",
+          "datasheet_label": "Offizielle Hersteller-Produktinformationen (CIC/IIC)",
+          "datasheet_url": "https://www.oticon.de/products/721429/oticon-ownsi-cic",
+          "source_title": "Oticon Own SI IIC/CIC – Herstellerinformation",
+          "source_url": "https://www.oticon.de/products/721428/oticon-own-si-iic",
+          "features": [
+            "Individuell maßgefertigtes, besonders unauffälliges Im-Ohr-Hörsystem als IIC bzw. CIC.",
+            "Sirius-Plattform mit permanent aktiver Deep-Neural-Network-Technologie (DNN 2.0).",
+            "BrainHearing-Technologie für natürliche Wahrnehmung des Klangumfeldes.",
+            "SuddenSound Stabilizer für die Verarbeitung plötzlicher leiser und lauter Geräusche.",
+            "Zink-Luft-Batterie der Größe 10, nicht wiederaufladbar.",
+            "IP68 – Staub- und Feuchtigkeitsschutz.",
+            "Kein direktes Bluetooth-/Auracast-Streaming bei IIC/CIC; optionaler Taster und NFMI nur bei CIC-Ausstattung möglich."
+          ],
+          "technical_scope_note": "Der AUMI-Artikel fasst IIC/CIC zusammen: Taster, NFMI und Tinnitusfunktionen nicht pauschal für IIC oder alle CIC-Ausführungen zusichern. Funktionsumfang ist technikstufen-/ausstattungsabhängig.",
+          "fitting_range_status": "Keine modellgenaue verifizierte Fitting-Range hinterlegt",
+          "fitting_range_note": "Akustische Anpassbereiche und mögliche Zusatzfunktionen nach individuellem Originaldatenblatt prüfen; keine Schätzung durch AUMI."
+        },
+        "product_updates": {
+          "bluetooth": false,
+          "iphone": false,
+          "android": false,
+          "tv": false,
+          "power": "Batterie",
           "charger": false
         }
       }
